@@ -1,5 +1,19 @@
 # automatic
-@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Alpha-latin Amacron Aogonek Aring Aringacute Astroke Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Cstroke D Dafrican Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Ereversed Esh Etilde Ezh F Fhook G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex Hdotbelow I IJ IJ_acute Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iotaafrican Itilde J Jacute Jcircumflex K Kacute Kcommaaccent Kdotbelow Klinebelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lmiddletilde Lslash M N Nacute Ncaron Ncommaaccent Eng Nhookleft Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oopen Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdiagonalstroke Tlinebelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilonafrican Uring Utilde V Gammaafrican Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol ];
+@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Alpha-latin Amacron Aogonek Aring Aringacute Astroke Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Cstroke D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Ereversed Esh Etilde Ezh F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex Hdotbelow I IJ IJ_acute Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iotaafrican Itilde J Jacute Jcircumflex K Kacute Kcommaaccent Kdotbelow Klinebelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lmiddletilde Lslash M N Nacute Ncaron Ncommaaccent Eng Nhookleft Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oopen Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdiagonalstroke Tlinebelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilonafrican Uring Utilde V Gammaafrican Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol];
+
+# automatic
+@Lowercase = [Asmall Gsmall Ismall Lsmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove alpha-latin amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek eopen esh etilde eturned schwa ezh f g gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent glottalstop glottalstopreversed gstroke h hbar hcaron hcircumflex hdotbelow i idotless iacute ibreve icircumflex idieresis idotbelow igrave ihookabove ij ij_acute imacron iogonek iota-latin itilde j jdotless jacute jcaron jcircumflex k kcommaaccent kdotbelow kgreenlandic klinebelow l lacute lambdastroke lbar lbelt lcaron lcommaaccent ldot ldotbelow llinebelow lmiddletilde lslash m n nacute napostrophe ncaron ncommaaccent eng nhookleft nlinebelow ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron omacronacute omacrongrave oogonek oopen oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdotbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tbar tcaron tcedilla tcommaaccent tesh u uacute ubreve ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek upsilon-latin uring utilde v vhook vturned w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent dcaron.alt cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK x.multiply a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy hardsign-cy yeru-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy ghestroke-cy zhedescender-cy kadescender-cy endescender-cy ustraight-cy ustraightstroke-cy hadescender-cy chedescender-cy shha-cy palochka-cy schwa-cy imacron-cy obarred-cy umacron-cy de-cy.loclBGR zhe-cy.loclBGR ze-cy.loclBGR ka-cy.loclBGR iu-cy.loclBGR be-cy.loclSRB ge-cy.loclSRB pe-cy.loclSRB te-cy.loclSRB alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos kaiSymbol];
+
+@OpeningBracket = [ bracketleft braceleft parenleft ];
+
+@Digit = [ zero one two three four five six seven eight nine ];
+
+@HexDigit = [ @Digit a b c d e f A B C D E F ];
+
+@ClosingBracket = [ bracketright braceright parenright ];
+
+@Tall = [ @Uppercase @Digit @OpeningBracket @ClosingBracket bar ];
+@NotSpace = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Alpha-latin Amacron Aogonek Aring Aringacute Astroke Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Cstroke D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Ereversed Esh Etilde Ezh F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex Hdotbelow I IJ IJ_acute Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iotaafrican Itilde J Jacute Jcircumflex K Kacute Kcommaaccent Kdotbelow Klinebelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lmiddletilde Lslash M N Nacute Ncaron Ncommaaccent Eng Nhookleft Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oopen Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdiagonalstroke Tlinebelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilonafrican Uring Utilde V Gammaafrican Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Asmall Gsmall Ismall Lsmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove alpha-latin amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek eopen esh etilde eturned schwa ezh f g gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent glottalstop glottalstopreversed gstroke h hbar hcaron hcircumflex hdotbelow i idotless iacute ibreve icircumflex idieresis idotbelow igrave ihookabove ij ij_acute imacron iogonek iota-latin itilde j jdotless jacute jcaron jcircumflex k kcommaaccent kdotbelow kgreenlandic klinebelow l lacute lambdastroke lbar lbelt lcaron lcommaaccent ldot ldotbelow llinebelow lmiddletilde lslash m n nacute napostrophe ncaron ncommaaccent eng nhookleft nlinebelow ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron omacronacute omacrongrave oogonek oopen oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdotbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tbar tcaron tcedilla tcommaaccent tesh u uacute ubreve ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek upsilon-latin uring utilde v vhook vturned w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent dcaron.alt cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK x.multiply fi fl w_w_w.liga ordfeminine ordmasculine nmod wmod ymod A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy hardsign-cy yeru-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy ghestroke-cy zhedescender-cy kadescender-cy endescender-cy ustraight-cy ustraightstroke-cy hadescender-cy chedescender-cy shha-cy palochka-cy schwa-cy imacron-cy obarred-cy umacron-cy de-cy.loclBGR zhe-cy.loclBGR ze-cy.loclBGR ka-cy.loclBGR iu-cy.loclBGR be-cy.loclSRB ge-cy.loclSRB pe-cy.loclSRB te-cy.loclSRB Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos kaiSymbol thetamod zmod zero one two three four five six seven eight nine zero.zero zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk exclamdouble numbersign onedotenleader overline slash backslash colon.center parenleft parenright braceleft braceright bracketleft bracketright heavyleftpointinganglebracketornament heavyleftpointinganglequotationmarkornament heavyrightpointinganglebracketornament heavyrightpointinganglequotationmarkornament mediumleftpointinganglebracketornament mediumrightpointinganglebracketornament hyphen softhyphen endash emdash horizontalbar hyphentwo nonbreakinghyphen underscore underscoredbl quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright quotereversed guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle hyphen_hyphen.liga hyphen_hyphen_hyphen.liga hyphen_asciitilde.liga parenleft_asterisk.liga braceleft_bar.liga braceright_numbersign.liga bracketleft_bar.liga bracketright_numbersign.liga period_hyphen.liga period_period.liga period_period_period.liga period_period_equal.liga period_period_less.liga period_question.liga period_equal.liga colon_colon.liga colon_colon_colon.liga colon_colon_equal.liga colon_equal.liga colon_slash_slash.liga semicolon_semicolon.liga exclam_period.liga exclam_colon.liga exclam_exclam.liga exclam_exclam_period.liga exclam_equal.liga exclam_equal_equal.liga question_period.liga question_colon.liga question_question.liga question_question_equal.liga question_equal.liga asterisk_parenright.liga asterisk_asterisk.liga asterisk_asterisk_asterisk.liga asterisk_greater.liga asterisk_slash.liga numbersign_parenleft.liga numbersign_braceleft.liga numbersign_bracketleft.liga numbersign_colon.liga numbersign_exclam.liga numbersign_question.liga numbersign_equal.liga numbersign_underscore.liga numbersign_underscore_parenleft.liga slash_asterisk.liga slash_greater.liga slash_slash.liga slash_slash_slash.liga slash_backslash.liga backslash_slash.liga backslash_backslash.liga underscore_underscore.liga hyphen_middle.seq hyphen_start.seq hyphen_end.seq colon_equal_middle.seq exclam_equal_middle.seq numbersign_end.seq numbersign_middle.seq numbersign_start.seq slash_equal_end.seq slash_equal_middle.seq slash_equal_start.seq slash_slash_equal_end.seq slash_slash_equal_middle.seq slash_slash_equal_start.seq underscore_end.seq underscore_middle.seq underscore_start.seq anoteleia questiongreek .notdef baht bitcoin cedi cent colonsign currency dollar dong euro eurocurrency florin franc guarani hryvnia kip lari lira liraTurkish manat naira peseta peso ruble rupee rupeeIndian sheqel sterling tenge tugrik won yen bulletoperator divisionslash equivalence horizontallineextension integralbt integraltp logicalnotReversed notidentical plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity intersection integral Ohm increment product summation radical micro partialdiff orthogonal percent perthousand strictlyequivalentto vectorOrCrossProduct greater.alt less.alt greater.center less.center upArrow rightArrow downArrow leftArrow leftRightArrow upDownArrow upDownbaseArrow downTipLeftArrow upDashArrow dashdownArrow lowerOneEighthBlock lowerOneQuarterBlock lowerThreeEighthsBlock lowerHalfBlock lowerFiveEighthsBlock lowerThreeQuartersBlock lowerSevenEighthsBlock fullBlock upperHalfBlock upperOneEighthBlock leftOneEighthBlock leftOneQuarterBlock leftThreeEighthsBlock leftBlock leftFiveEighthsBlock leftThreeQuartersBlock leftSevenEighthsBlock rightBlock rightOneEighthBlock lowerLeftBlock lowerRightBlock upperLeftBlock upperLeftAndLowerLeftAndLowerRightBlock upperLeftAndLowerRightBlock upperLeftAndUpperRightAndLowerLeftBlock upperLeftAndUpperRightAndLowerRightBlock upperRightBlock upperRightAndLowerLeftBlock upperRightAndLowerLeftAndLowerRightBlock shadelight shademedium shadedark blackCircle whiteCircle largeCircle leftHalfBlackWhiteCircle rightHalfBlackWhiteCircle lowerHalfBlackWhiteCircle upperHalfBlackWhiteCircle leftHalfBlackCircle rightHalfBlackCircle upperRightBlackCircle upperLeftWhiteCircle upperLeftQuadrantWhiteCircle lowerLeftQuadrantWhiteCircle lowerRightQuadrantWhiteCircle upperRightQuadrantWhiteCircle verticalFillCircle dottedCircle fisheye bullseye whiteBullet inverseBullet inverseWhiteCircle upperHalfInverseWhiteCircle lowerHalfInverseWhiteCircle upperHalfArc lowerHalfArc upperLeftArc upperRightArc lowerRightArc lowerLeftArc blackDiamond whiteDiamond leftHalfBlackDiamond rightHalfBlackDiamond topHalfBlackDiamond bottomHalfBlackDiamond blackInWhiteDiamond lozenge blackParallelogram whiteParallelogram blackVerticalRect filledRect whiteRect whiteVerticalRect blackSquare whiteSquare whiteRoundedCornersSquare whiteInBlackSquare dottedSquare horizontalFillSquare verticalFillSquare crosshatchFillSquare upperlefttolowerrightFillSquare upperrighttolowerleftFillSquare diagonalcrosshatchFillSquare blackSmallSquare whiteSmallSquare leftHalfBlackSquare rightHalfBlackSquare upperLeftDiagonalHalfBlackSquare lowerRightDiagonalHalfBlackSquare verticalBisectingLineWhiteSquare whiteUpperLeftQuadrantSquare whiteLowerLeftQuadrantSquare whiteLowerRightQuadrantSquare whiteUpperRightQuadrantSquare mediumWhiteSquare mediumBlackSquare mediumWhiteSmallSquare mediumBlackSmallSquare upBlackTriangle rightBlackTriangle downBlackTriangle leftBlackTriangle upWhiteTriangle rightWhiteTriangle downWhiteTriangle leftWhiteTriangle upWhiteTriangleWithDot upLeftHalfBlackTriangle upRightHalfBlackTriangle rightBlackPointer leftBlackPointer rightWhitePointer leftWhitePointer upBlackSmallTriangle rightBlackSmallTriangle downBlackSmallTriangle leftBlackSmallTriangle upWhiteSmallTriangle rightWhiteSmallTriangle downWhiteSmallTriangle leftWhiteSmallTriangle upperRightBlackTriangle lowerRightBlackTriangle lowerLeftBlackTriangle upperLeftBlackTriangle upperRightTriangle lowerRightTriangle lowerLeftTriangle upperLeftTriangle boxDoubleDownAndHorizontal boxDoubleDownAndLeft boxDoubleDownAndRight boxDoubleHorizontal boxDoubleUpAndHorizontal boxDoubleUpAndLeft boxDoubleUpAndRight boxDoubleVertical boxDoubleVerticalAndHorizontal boxDoubleVerticalAndLeft boxDoubleVerticalAndRight boxDownDoubleAndHorizontalSingle boxDownDoubleAndLeftSingle boxDownDoubleAndRightSingle boxDownHeavyAndHorizontalLight boxDownHeavyAndLeftLight boxDownHeavyAndLeftUpLight boxDownHeavyAndRightLight boxDownHeavyAndRightUpLight boxDownHeavyAndUpHorizontalLight boxDownLightAndHorizontalHeavy boxDownLightAndLeftHeavy boxDownLightAndLeftUpHeavy boxDownLightAndRightHeavy boxDownLightAndRightUpHeavy boxDownLightAndUpHorizontalHeavy boxDownSingleAndHorizontalDouble boxDownSingleAndLeftDouble boxDownSingleAndRightDouble boxHeavyDoubleDashHorizontal boxHeavyDoubleDashVertical boxHeavyDown boxHeavyDownAndHorizontal boxHeavyDownAndLeft boxHeavyDownAndRight boxHeavyHorizontal boxHeavyLeft boxHeavyLeftAndLightRight boxHeavyQuadrupleDashHorizontal boxHeavyQuadrupleDashVertical boxHeavyRight boxHeavyTripleDashHorizontal boxHeavyTripleDashVertical boxHeavyUp boxHeavyUpAndHorizontal boxHeavyUpAndLeft boxHeavyUpAndLightDown boxHeavyUpAndRight boxHeavyVertical boxHeavyVerticalAndHorizontal boxHeavyVerticalAndLeft boxHeavyVerticalAndRight boxLeftDownHeavyAndRightUpLight boxLeftHeavyAndRightDownLight boxLeftHeavyAndRightUpLight boxLeftHeavyAndRightVerticalLight boxLeftLightAndRightDownHeavy boxLeftLightAndRightUpHeavy boxLeftLightAndRightVerticalHeavy boxLeftUpHeavyAndRightDownLight boxLightArcDownAndLeft boxLightArcDownAndRight boxLightArcUpAndLeft boxLightArcUpAndRight boxLightDiagonalCross boxLightDiagonalUpperLeftToLowerRight boxLightDiagonalUpperRightToLowerLeft boxLightDoubleDashHorizontal boxLightDoubleDashVertical boxLightDown boxLightDownAndHorizontal boxLightDownAndLeft boxLightDownAndRight boxLightHorizontal boxLightLeft boxLightLeftAndHeavyRight boxLightQuadrupleDashHorizontal boxLightQuadrupleDashVertical boxLightRight boxLightTripleDashHorizontal boxLightTripleDashVertical boxLightUp boxLightUpAndHeavyDown boxLightUpAndHorizontal boxLightUpAndLeft boxLightUpAndRight boxLightVertical boxLightVerticalAndHorizontal boxLightVerticalAndLeft boxLightVerticalAndRight boxRightDownHeavyAndLeftUpLight boxRightHeavyAndLeftDownLight boxRightHeavyAndLeftUpLight boxRightHeavyAndLeftVerticalLight boxRightLightAndLeftDownHeavy boxRightLightAndLeftUpHeavy boxRightLightAndLeftVerticalHeavy boxRightUpHeavyAndLeftDownLight boxUpDoubleAndHorizontalSingle boxUpDoubleAndLeftSingle boxUpDoubleAndRightSingle boxUpHeavyAndDownHorizontalLight boxUpHeavyAndHorizontalLight boxUpHeavyAndLeftDownLight boxUpHeavyAndLeftLight boxUpHeavyAndRightDownLight boxUpHeavyAndRightLight boxUpLightAndDownHorizontalHeavy boxUpLightAndHorizontalHeavy boxUpLightAndLeftDownHeavy boxUpLightAndLeftHeavy boxUpLightAndRightDownHeavy boxUpLightAndRightHeavy boxUpSingleAndHorizontalDouble boxUpSingleAndLeftDouble boxUpSingleAndRightDouble boxVerticalDoubleAndHorizontalSingle boxVerticalDoubleAndLeftSingle boxVerticalDoubleAndRightSingle boxVerticalHeavyAndHorizontalLight boxVerticalHeavyAndLeftLight boxVerticalHeavyAndRightLight boxVerticalLightAndHorizontalHeavy boxVerticalLightAndLeftHeavy boxVerticalLightAndRightHeavy boxVerticalSingleAndHorizontalDouble boxVerticalSingleAndLeftDouble boxVerticalSingleAndRightDouble lowerOneEighthBlock.stypo lowerOneQuarterBlock.stypo lowerThreeEighthsBlock.stypo lowerHalfBlock.stypo lowerFiveEighthsBlock.stypo lowerThreeQuartersBlock.stypo lowerSevenEighthsBlock.stypo fullBlock.stypo upperHalfBlock.stypo upperOneEighthBlock.stypo leftOneEighthBlock.stypo leftOneQuarterBlock.stypo leftThreeEighthsBlock.stypo leftBlock.stypo leftFiveEighthsBlock.stypo leftThreeQuartersBlock.stypo leftSevenEighthsBlock.stypo rightBlock.stypo rightOneEighthBlock.stypo lowerLeftBlock.stypo lowerRightBlock.stypo upperLeftBlock.stypo upperLeftAndLowerLeftAndLowerRightBlock.stypo upperLeftAndLowerRightBlock.stypo upperLeftAndUpperRightAndLowerLeftBlock.stypo upperLeftAndUpperRightAndLowerRightBlock.stypo upperRightBlock.stypo upperRightAndLowerLeftBlock.stypo upperRightAndLowerLeftAndLowerRightBlock.stypo shadelight.stypo shademedium.stypo shadedark.stypo boxDoubleDownAndHorizontal.stypo boxDoubleDownAndLeft.stypo boxDoubleDownAndRight.stypo boxDoubleHorizontal.stypo boxDoubleUpAndHorizontal.stypo boxDoubleUpAndLeft.stypo boxDoubleUpAndRight.stypo boxDoubleVertical.stypo boxDoubleVerticalAndHorizontal.stypo boxDoubleVerticalAndLeft.stypo boxDoubleVerticalAndRight.stypo boxDownDoubleAndHorizontalSingle.stypo boxDownDoubleAndLeftSingle.stypo boxDownDoubleAndRightSingle.stypo boxDownHeavyAndHorizontalLight.stypo boxDownHeavyAndLeftLight.stypo boxDownHeavyAndLeftUpLight.stypo boxDownHeavyAndRightLight.stypo boxDownHeavyAndRightUpLight.stypo boxDownHeavyAndUpHorizontalLight.stypo boxDownLightAndHorizontalHeavy.stypo boxDownLightAndLeftHeavy.stypo boxDownLightAndLeftUpHeavy.stypo boxDownLightAndRightHeavy.stypo boxDownLightAndRightUpHeavy.stypo boxDownLightAndUpHorizontalHeavy.stypo boxDownSingleAndHorizontalDouble.stypo boxDownSingleAndLeftDouble.stypo boxDownSingleAndRightDouble.stypo boxHeavyDoubleDashHorizontal.stypo boxHeavyDoubleDashVertical.stypo boxHeavyDown.stypo boxHeavyDownAndHorizontal.stypo boxHeavyDownAndLeft.stypo boxHeavyDownAndRight.stypo boxHeavyHorizontal.stypo boxHeavyLeft.stypo boxHeavyLeftAndLightRight.stypo boxHeavyQuadrupleDashHorizontal.stypo boxHeavyQuadrupleDashVertical.stypo boxHeavyRight.stypo boxHeavyTripleDashHorizontal.stypo boxHeavyTripleDashVertical.stypo boxHeavyUp.stypo boxHeavyUpAndHorizontal.stypo boxHeavyUpAndLeft.stypo boxHeavyUpAndLightDown.stypo boxHeavyUpAndRight.stypo boxHeavyVertical.stypo boxHeavyVerticalAndHorizontal.stypo boxHeavyVerticalAndLeft.stypo boxHeavyVerticalAndRight.stypo boxLeftDownHeavyAndRightUpLight.stypo boxLeftHeavyAndRightDownLight.stypo boxLeftHeavyAndRightUpLight.stypo boxLeftHeavyAndRightVerticalLight.stypo boxLeftLightAndRightDownHeavy.stypo boxLeftLightAndRightUpHeavy.stypo boxLeftLightAndRightVerticalHeavy.stypo boxLeftUpHeavyAndRightDownLight.stypo boxLightArcDownAndLeft.stypo boxLightArcDownAndRight.stypo boxLightArcUpAndLeft.stypo boxLightArcUpAndRight.stypo boxLightDiagonalCross.stypo boxLightDiagonalUpperLeftToLowerRight.stypo boxLightDiagonalUpperRightToLowerLeft.stypo boxLightDoubleDashHorizontal.stypo boxLightDoubleDashVertical.stypo boxLightDown.stypo boxLightDownAndHorizontal.stypo boxLightDownAndLeft.stypo boxLightDownAndRight.stypo boxLightHorizontal.stypo boxLightLeft.stypo boxLightLeftAndHeavyRight.stypo boxLightQuadrupleDashHorizontal.stypo boxLightQuadrupleDashVertical.stypo boxLightRight.stypo boxLightTripleDashHorizontal.stypo boxLightTripleDashVertical.stypo boxLightUp.stypo boxLightUpAndHeavyDown.stypo boxLightUpAndHorizontal.stypo boxLightUpAndLeft.stypo boxLightUpAndRight.stypo boxLightVertical.stypo boxLightVerticalAndHorizontal.stypo boxLightVerticalAndLeft.stypo boxLightVerticalAndRight.stypo boxRightDownHeavyAndLeftUpLight.stypo boxRightHeavyAndLeftDownLight.stypo boxRightHeavyAndLeftUpLight.stypo boxRightHeavyAndLeftVerticalLight.stypo boxRightLightAndLeftDownHeavy.stypo boxRightLightAndLeftUpHeavy.stypo boxRightLightAndLeftVerticalHeavy.stypo boxRightUpHeavyAndLeftDownLight.stypo boxUpDoubleAndHorizontalSingle.stypo boxUpDoubleAndLeftSingle.stypo boxUpDoubleAndRightSingle.stypo boxUpHeavyAndDownHorizontalLight.stypo boxUpHeavyAndHorizontalLight.stypo boxUpHeavyAndLeftDownLight.stypo boxUpHeavyAndLeftLight.stypo boxUpHeavyAndRightDownLight.stypo boxUpHeavyAndRightLight.stypo boxUpLightAndDownHorizontalHeavy.stypo boxUpLightAndHorizontalHeavy.stypo boxUpLightAndLeftDownHeavy.stypo boxUpLightAndLeftHeavy.stypo boxUpLightAndRightDownHeavy.stypo boxUpLightAndRightHeavy.stypo boxUpSingleAndHorizontalDouble.stypo boxUpSingleAndLeftDouble.stypo boxUpSingleAndRightDouble.stypo boxVerticalDoubleAndHorizontalSingle.stypo boxVerticalDoubleAndLeftSingle.stypo boxVerticalDoubleAndRightSingle.stypo boxVerticalHeavyAndHorizontalLight.stypo boxVerticalHeavyAndLeftLight.stypo boxVerticalHeavyAndRightLight.stypo boxVerticalLightAndHorizontalHeavy.stypo boxVerticalLightAndLeftHeavy.stypo boxVerticalLightAndRightHeavy.stypo boxVerticalSingleAndHorizontalDouble.stypo boxVerticalSingleAndLeftDouble.stypo boxVerticalSingleAndRightDouble.stypo reversedRotatedFloralHeartBullet whiteSmilingFace blackSmilingFace sunWithRays venus mars spadeBlackSuit clubBlackSuit heartBlackSuit diamondBlackSuit checkmark rotatedFloralHeartBullet acknowledgeControl backspaceControl at ampersand paragraph section copyright registered published trademark careof degree minute second bar brokenbar literSign dagger daggerdbl estimated numero bellControl blackHexagon blackHorizontalEllipse blackLargeCircle blackLargeSquare blackMediumDiamond blackMediumDownTriangleCentred blackMediumLeftTriangleCentred blackMediumLozenge blackMediumRightTriangleCentred blackMediumUpTriangleCentred blackPentagon blackSmallDiamond blackSmallLozenge blackVerticalEllipse blackVerysmallSquare blank blankSymbol bottomHalfBlackCircle cancelControl carriageReturnControl dataLinkEscapeControl deleteControl deleteFormTwoControl deviceControlFourControl deviceControlOneControl deviceControlThreeControl deviceControlTwoControl endOfMediumControl endOfTextControl endOfTransmissionBlockControl endOfTransmissionControl enquiryControl escapeControl fileSeparatorControl formFeedControl groupSeparatorControl horizontalBlackHexagon horizontalTabulationControl house returnsymbol lineFeedControl lowerHalfWhiteSquare lowerLeftHalfWhiteSquare negativeAcknowledgeControl newlineControl nullControl prescription recordSeparatorControl replacementCharacter shiftInControl shiftOutControl spaceControl startOfHeadingControl startOfTextControl substituteControl substituteFormTwoControl synchronousIdleControl topHalfBlackCircle topHalfWhiteSquare topRightHalfWhiteSquare unitSeparatorControl verticalTabulationControl whiteHexagon whiteHorizontalEllipse whiteLargeSquare whiteMediumDiamond whiteMediumLozenge whitePentagon whiteSmallLozenge whiteVerticalEllipse whiteVerysmallSquare acknowledgeControl.ss20 backspaceControl.ss20 bellControl.ss20 cancelControl.ss20 carriageReturnControl.ss20 dataLinkEscapeControl.ss20 endOfMediumControl.ss20 endOfTextControl.ss20 endOfTransmissionBlockControl.ss20 endOfTransmissionControl.ss20 enquiryControl.ss20 escapeControl.ss20 formFeedControl.ss20 horizontalTabulationControl.ss20 lineFeedControl.ss20 negativeAcknowledgeControl.ss20 shiftInControl.ss20 shiftOutControl.ss20 startOfHeadingControl.ss20 startOfTextControl.ss20 substituteControl.ss20 synchronousIdleControl.ss20 verticalTabulationControl.ss20 ampersand_ampersand.liga bar_braceright.liga bar_bracketright.liga bar_bar.liga bar_bar_bar.liga bar_bar_bar_greater.liga bar_bar_greater.liga bar_greater.liga dollar_greater.liga plus_plus.liga plus_plus_plus.liga plus_greater.liga equal_equal.liga equal_equal_equal.liga equal_greater_greater.liga equal_less_less.liga greater_equal.liga greater_greater.liga greater_greater_equal.liga greater_greater_greater.liga less_exclam_hyphen_hyphen.liga less_asterisk.liga less_asterisk_greater.liga less_bar.liga less_bar_bar.liga less_bar_bar_bar.liga less_bar_greater.liga less_dollar.liga less_dollar_greater.liga less_plus.liga less_plus_greater.liga less_equal.liga less_greater.liga less_less.liga less_less_equal.liga less_less_less.liga less_asciitilde.liga less_asciitilde_greater.liga less_asciitilde_asciitilde.liga less_slash.liga less_slash_greater.liga asciitilde_hyphen.liga asciitilde_at.liga asciitilde_equal.liga asciitilde_greater.liga asciitilde_asciitilde.liga asciitilde_asciitilde_greater.liga asciicircum_equal.liga percent_percent.liga bar_equal_middle.seq bar_hyphen_middle.seq bar_underscore_middle.seq bar_bar_equal_middle.seq bar_bar_equal_end.seq bar_bar_equal_start.seq bar_bar_hyphen_middle.seq bar_bar_hyphen_end.seq bar_bar_hyphen_start.seq bar_equal_end.seq bar_equal_start.seq bar_hyphen_end.seq bar_hyphen_start.seq equal_middle.seq equal_end.seq equal_start.seq greater_equal_middle.seq greater_hyphen_middle.seq greater_greater_equal_middle.seq greater_greater_equal_end.seq greater_greater_equal_start.seq greater_equal_start.seq greater_equal_end.seq greater_greater_hyphen_middle.seq greater_greater_hyphen_end.seq greater_greater_hyphen_start.seq greater_hyphen_start.seq greater_hyphen_end.seq less_equal_middle.seq less_hyphen_middle.seq less_less_equal_middle.seq less_less_equal_end.seq less_less_equal_start.seq less_equal_end.seq less_equal_start.seq less_less_hyphen_middle.seq less_less_hyphen_end.seq less_less_hyphen_start.seq less_hyphen_end.seq less_hyphen_start.seq note-musical notedbl-musical blank-braille dots1-braille dots12-braille dots123-braille dots1234-braille dots12345-braille dots123456-braille dots1234567-braille dots12345678-braille dots1234568-braille dots123457-braille dots1234578-braille dots123458-braille dots12346-braille dots123467-braille dots1234678-braille dots123468-braille dots12347-braille dots123478-braille dots12348-braille dots1235-braille dots12356-braille dots123567-braille dots1235678-braille dots123568-braille dots12357-braille dots123578-braille dots12358-braille dots1236-braille dots12367-braille dots123678-braille dots12368-braille dots1237-braille dots12378-braille dots1238-braille dots124-braille dots1245-braille dots12456-braille dots124567-braille dots1245678-braille dots124568-braille dots12457-braille dots124578-braille dots12458-braille dots1246-braille dots12467-braille dots124678-braille dots12468-braille dots1247-braille dots12478-braille dots1248-braille dots125-braille dots1256-braille dots12567-braille dots125678-braille dots12568-braille dots1257-braille dots12578-braille dots1258-braille dots126-braille dots1267-braille dots12678-braille dots1268-braille dots127-braille dots1278-braille dots128-braille dots13-braille dots134-braille dots1345-braille dots13456-braille dots134567-braille dots1345678-braille dots134568-braille dots13457-braille dots134578-braille dots13458-braille dots1346-braille dots13467-braille dots134678-braille dots13468-braille dots1347-braille dots13478-braille dots1348-braille dots135-braille dots1356-braille dots13567-braille dots135678-braille dots13568-braille dots1357-braille dots13578-braille dots1358-braille dots136-braille dots1367-braille dots13678-braille dots1368-braille dots137-braille dots1378-braille dots138-braille dots14-braille dots145-braille dots1456-braille dots14567-braille dots145678-braille dots14568-braille dots1457-braille dots14578-braille dots1458-braille dots146-braille dots1467-braille dots14678-braille dots1468-braille dots147-braille dots1478-braille dots148-braille dots15-braille dots156-braille dots1567-braille dots15678-braille dots1568-braille dots157-braille dots1578-braille dots158-braille dots16-braille dots167-braille dots1678-braille dots168-braille dots17-braille dots178-braille dots18-braille dots2-braille dots23-braille dots234-braille dots2345-braille dots23456-braille dots234567-braille dots2345678-braille dots234568-braille dots23457-braille dots234578-braille dots23458-braille dots2346-braille dots23467-braille dots234678-braille dots23468-braille dots2347-braille dots23478-braille dots2348-braille dots235-braille dots2356-braille dots23567-braille dots235678-braille dots23568-braille dots2357-braille dots23578-braille dots2358-braille dots236-braille dots2367-braille dots23678-braille dots2368-braille dots237-braille dots2378-braille dots238-braille dots24-braille dots245-braille dots2456-braille dots24567-braille dots245678-braille dots24568-braille dots2457-braille dots24578-braille dots2458-braille dots246-braille dots2467-braille dots24678-braille dots2468-braille dots247-braille dots2478-braille dots248-braille dots25-braille dots256-braille dots2567-braille dots25678-braille dots2568-braille dots257-braille dots2578-braille dots258-braille dots26-braille dots267-braille dots2678-braille dots268-braille dots27-braille dots278-braille dots28-braille dots3-braille dots34-braille dots345-braille dots3456-braille dots34567-braille dots345678-braille dots34568-braille dots3457-braille dots34578-braille dots3458-braille dots346-braille dots3467-braille dots34678-braille dots3468-braille dots347-braille dots3478-braille dots348-braille dots35-braille dots356-braille dots3567-braille dots35678-braille dots3568-braille dots357-braille dots3578-braille dots358-braille dots36-braille dots367-braille dots3678-braille dots368-braille dots37-braille dots378-braille dots38-braille dots4-braille dots45-braille dots456-braille dots4567-braille dots45678-braille dots4568-braille dots457-braille dots4578-braille dots458-braille dots46-braille dots467-braille dots4678-braille dots468-braille dots47-braille dots478-braille dots48-braille dots5-braille dots56-braille dots567-braille dots5678-braille dots568-braille dots57-braille dots578-braille dots58-braille dots6-braille dots67-braille dots678-braille dots68-braille dots7-braille dots78-braille dots8-braille numeral-greek lowernumeral-greek apostrophemod colontriangularmod commaturnedmod firsttonechinese glottalstopmod dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaturnedabovecomb commaabovecomb commaaboverightcomb horncomb dotbelowcomb ringbelowcomb commaaccentcomb cedillacomb ogonekcomb macronbelowcomb lowlinecomb gravetonecomb acutetonecomb dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case acutecomb.loclPLK acutecomb.case.loclPLK perispomenicomb tonos tonos.case dieresistonos brevecomb-cy brevecomb-cy.case LIG ];
 
 # Prefix: Languagesystems
 # automatic
@@ -9,18 +23,15 @@ languagesystem latn dflt;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn PLK;
-languagesystem latn CAT;
 languagesystem latn NLD;
+languagesystem latn CAT;
+languagesystem latn EWE;
 
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
-languagesystem cyrl SRB;
-
-
-feature aalt {
+languagesystem cyrl SRB;feature aalt {
 # automatic
 feature calt;
-feature salt;
 feature locl;
 feature subs;
 feature sinf;
@@ -30,49 +41,25 @@ feature dnom;
 feature frac;
 feature ordn;
 feature case;
-feature zero;
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss19;
 feature ss20;
+feature rclt;
+feature zero;
 
-} aalt;
-
-feature calt {
-sub [B C D E F G H I J K M N O P Q R S T U V W X Y Z seven f Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy Ef-cy.loclBGR] [b h k shha-cy zhe-cy.loclBGR ka-cy.loclBGR]' by [b.alt h.alt k.alt shha-cy.alt zhe-cy.loclBGR.alt ka-cy.loclBGR.alt];
-} calt;
-
-feature ss01 {
-sub f by f.salt;
-sub l by l.salt;
-sub lacute by lacute.salt;
-sub lbar by lbar.salt;
-sub lbelt by lbelt.salt;
-sub lcaron by lcaron.salt;
-sub lcommaaccent by lcommaaccent.salt;
-sub ldot by ldot.salt;
-sub ldotbelow by ldotbelow.salt;
-sub llinebelow by llinebelow.salt;
-sub lmiddletilde by lmiddletilde.salt;
-sub lslash by lslash.salt;
-sub r by r.salt;
-sub racute by racute.salt;
-sub rcaron by rcaron.salt;
-sub rcommaaccent by rcommaaccent.salt;
-sub rdotbelow by rdotbelow.salt;
-sub s by s.salt;
-sub sacute by sacute.salt;
-sub scaron by scaron.salt;
-sub scedilla by scedilla.salt;
-sub scircumflex by scircumflex.salt;
-sub scommaaccent by scommaaccent.salt;
-sub sdotbelow by sdotbelow.salt;
-} ss01;
-
-feature ccmp {
-# automatic
+} aalt;feature ccmp {
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb acutetonecomb brevecomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb gravetonecomb hookabovecomb hungarumlautcomb macroncomb perispomenicomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb lowlinecomb macronbelowcomb ogonekcomb ringbelowcomb horncomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	sub [i j i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless jdotless];	
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb; 
+	sub idotbelow' @CombiningTopAccents by idotless dotbelowcomb; 
+	sub [i j i-cy je-cy]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless idotless jdotless];
+	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;
+	sub idotbelow' @CombiningNonTopAccents @CombiningTopAccents by idotless dotbelowcomb;
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb horncomb tonos brevecomb-cy];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case tonos.case brevecomb-cy.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
@@ -84,9 +71,12 @@ lookup ccmp_Other_2 {
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
 } ccmp_Other_2;
 
-} ccmp;
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
 
-feature locl {
+} ccmp;feature locl {
 # automatic
 lookup locl_latn_0 {
 	script latn;
@@ -116,17 +106,10 @@ lookup locl_latn_1 {
 
 lookup locl_latn_2 {
 	script latn;
-	language CAT;
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
-} locl_latn_2;
-
-lookup locl_latn_3 {
-	script latn;
 	language NLD;
-	sub iacute j' by jacute;
-	sub Iacute J' by Jacute;
-} locl_latn_3;
+	sub ij acutecomb by ij_acute;
+	sub IJ acutecomb by IJ_acute;
+} locl_latn_2;
 
 lookup locl_cyrl_0 {
 	script cyrl;
@@ -145,13 +128,1028 @@ lookup locl_cyrl_1 {
 	script cyrl;
 	language SRB;
 	sub be-cy by be-cy.loclSRB;
-	sub ge-cy by ge-cy.loclSRB;
-	sub pe-cy by pe-cy.loclSRB;
-	sub te-cy by te-cy.loclSRB;
+	sub ge-cy by ge-cy.loclSRB; 
+	sub de-cy by de-cy.loclBGR;
+	sub pe-cy by pe-cy.loclSRB; 
+	sub te-cy by te-cy.loclSRB; 
 } locl_cyrl_1;
 
-} locl;
+lookup locl_ewe {
+	script latn;
+	language EWE;
+	sub f by f.locl;
+	sub florin by f.salt;
+} locl_ewe;
 
+} locl;feature calt {
+### Exclam (for equal see below)
+lookup exclam_equal {
+  sub exclam_equal.liga equal'  by LIG;
+  ignore sub exclam exclam' equal;
+  ignore sub exclam' equal equal equal;
+  ignore sub parenleft question exclam' equal;
+  ignore sub parenleft question less exclam' equal;
+  ignore sub equal exclam' equal;
+  sub exclam'           equal   by exclam_equal.liga;
+} exclam_equal;
+
+lookup exclam_equal_equal {
+  sub exclam_equal_equal.liga LIG   equal'  by LIG;
+  sub exclam_equal.liga' LIG   equal  by exclam_equal_equal.liga;
+} exclam_equal_equal;
+
+lookup exclam_exclam {
+  sub exclam_exclam.liga  exclam' by LIG;
+  ignore sub exclam exclam' exclam;
+  ignore sub exclam' exclam exclam;
+  ignore sub parenleft question exclam' exclam;
+  ignore sub parenleft question less exclam' exclam;
+  sub exclam'             exclam  by exclam_exclam.liga;
+} exclam_exclam;
+
+lookup exclam_exclam_period {
+  sub exclam_exclam_period.liga LIG  period' by LIG;
+  ignore sub exclam_exclam.liga' LIG period period;
+  sub exclam_exclam.liga'       LIG  period  by exclam_exclam_period.liga;
+} exclam_exclam_period;
+
+lookup exclam_period {
+  sub exclam_period.liga  period'  by LIG;
+  ignore sub exclam exclam' period;
+  ignore sub exclam' period period;
+  sub exclam'             period   by exclam_period.liga;
+} exclam_period;
+
+lookup exclam_colon {
+  sub exclam_colon.liga  	colon'  by LIG;
+  ignore sub exclam exclam' colon;
+  ignore sub exclam' colon colon;
+  sub exclam'               colon   by exclam_colon.liga;
+} exclam_colon;
+
+## Equal - Made sense to shift this below the exclam to avoid issues
+lookup equal_equal {
+  sub equal_equal.liga  equal'  by LIG;
+  ignore sub equal equal' equal;
+  ignore sub equal' equal equal equal;
+  ignore sub parenleft question equal' equal;
+  ignore sub parenleft question less equal' equal;
+  ignore sub less question equal' equal;
+  ignore sub bracketleft equal' equal;
+  ignore sub equal' equal bracketright;
+  ignore sub equal [colon exclam] equal' equal;
+  ignore sub [less greater bar slash] equal' equal;
+  ignore sub equal' equal [less greater bar slash] ;
+  ignore sub equal' equal equal [less greater bar slash] ;
+  ignore sub equal' equal [colon exclam] equal;
+  sub equal'  equal  by equal_equal.liga;
+} equal_equal;
+
+lookup equal_equal_equal {
+  sub equal_equal_equal.liga  LIG     equal' by LIG;
+  sub equal_equal.liga'       LIG   equal  by equal_equal_equal.liga;
+} equal_equal_equal;
+
+lookup equal_greater_greater {
+  sub equal_greater_greater.liga LIG greater' by LIG;
+  sub equal_greater_greater.liga greater' greater by LIG;
+  ignore sub equal' greater greater equal;
+  ignore sub equal equal' greater greater;
+  sub equal' greater greater by equal_greater_greater.liga;
+} equal_greater_greater;
+
+lookup equal_less_less {
+  sub equal_less_less.liga LIG less' by LIG;
+  sub equal_less_less.liga less' less by LIG;
+  ignore sub equal' less less equal;
+  ignore sub equal equal' less less;
+  sub equal' less less by equal_less_less.liga;
+} equal_less_less;
+
+### Less - It is convenient to have this lookup set at the start. 
+lookup less_asciitilde {
+  sub less_asciitilde.liga   asciitilde'  by LIG;
+  ignore sub less less' asciitilde;
+  ignore sub less' asciitilde asciitilde asciitilde;
+  sub less'                  asciitilde   by less_asciitilde.liga;
+} less_asciitilde;
+
+lookup less_asciitilde_asciitilde {
+  sub less_asciitilde_asciitilde.liga  LIG  asciitilde'  by LIG;
+  sub less_asciitilde.liga'            LIG  asciitilde   by less_asciitilde_asciitilde.liga;
+} less_asciitilde_asciitilde;
+
+lookup less_asterisk {
+  sub less_asterisk.liga   asterisk'  by LIG;
+  ignore sub less less' asterisk;
+  ignore sub less' asterisk asterisk;
+  sub less'                asterisk   by less_asterisk.liga;
+} less_asterisk;
+
+lookup less_dollar {
+  sub less_dollar.liga dollar' by LIG;
+  ignore sub less less' dollar;
+  ignore sub less' dollar dollar;
+  sub less'            dollar  by less_dollar.liga;
+} less_dollar;
+
+lookup less_equal {
+  sub less_equal.liga   equal'  by LIG;
+  ignore sub less less' equal;
+  ignore sub less' equal equal;
+  ignore sub parenleft question less' equal;
+  ignore sub equal less' equal;
+  ignore sub less' equal [less greater bar colon exclam slash];
+  sub less'             equal   by less_equal.liga;
+} less_equal;
+
+lookup less_greater {
+  sub less_greater.liga   greater'  by LIG;
+  ignore sub less less' greater;
+  ignore sub less' greater greater;
+  sub less'               greater   by less_greater.liga;
+} less_greater;
+
+lookup less_plus {
+  sub less_plus.liga  plus'  by LIG;
+  ignore sub less less' plus;
+  ignore sub less' plus plus;
+  sub less'           plus   by less_plus.liga;
+} less_plus;
+
+lookup less_slash {
+  sub less_slash.liga slash'  by LIG;
+  ignore sub less less' slash;
+  ignore sub less' slash slash;
+  sub less'           slash   by less_slash.liga;
+} less_slash;
+
+lookup less_bar {
+  sub less_bar.liga bar'  by LIG;
+  ignore sub less less' bar;
+  ignore sub less' bar bar bar bar;
+  ignore sub less' bar bar greater;
+  sub less'         bar   by less_bar.liga;
+} less_bar;
+
+lookup less_bar_bar {
+  sub less_bar_bar.liga LIG   bar'  by LIG;
+  sub less_bar.liga'    LIG   bar   by less_bar_bar.liga;
+} less_bar_bar;
+
+lookup less_bar_bar_bar {
+  sub less_bar_bar_bar.liga LIG   LIG   bar'  by LIG;
+  sub less_bar_bar.liga'    LIG   LIG   bar   by less_bar_bar_bar.liga;
+} less_bar_bar_bar;
+
+# generally it is useful to have the duplicating sequences in a row. This avoids potential badness. 
+
+lookup less_less {
+  sub less_less.liga  less'  by LIG;
+  ignore sub less less' less;
+  ignore sub less' less less less;
+  ignore sub less' less [asterisk plus dollar];
+  ignore sub hyphen less' less; # disabled =<< to avoid issues in Haskell
+  ignore sub equal less' less equal;
+  ignore sub equal equal less' less; # but enable ==<< :)
+  ignore sub less' less hyphen;
+  ignore sub less' less equal [equal less greater bar colon exclam slash];
+  ignore sub less' less less [asterisk plus dollar];
+  sub less'           less   by less_less.liga;
+} less_less;
+
+lookup less_less_equal {
+  sub less_less_equal.liga LIG equal' by equal;
+  sub less_less.liga' LIG equal by less_less_equal.liga;
+} less_less_equal;
+
+lookup less_less_less {
+  sub less_less_less.liga   LIG  less'  by LIG;
+  sub less_less.liga'  LIG  less   by less_less_less.liga;
+} less_less_less;
+
+lookup less_asciitilde_greater {
+  sub less_asciitilde_greater.liga  LIG  greater'  by LIG;
+  ignore sub less_asciitilde.liga' LIG greater greater;
+  sub less_asciitilde.liga'         LIG  greater   by less_asciitilde_greater.liga;
+} less_asciitilde_greater;
+
+lookup less_asterisk_greater {
+  sub less_asterisk_greater.liga  LIG  greater'  by LIG;
+  sub less_asterisk.liga'       LIG  greater  by less_asterisk_greater.liga;
+} less_asterisk_greater;
+
+lookup less_dollar_greater {
+  sub less_dollar_greater.liga   LIG    greater'  by LIG;
+  sub less_dollar.liga'          LIG    greater   by less_dollar_greater.liga;
+} less_dollar_greater;
+
+lookup less_plus_greater {
+  sub less_plus_greater.liga  LIG  greater'  by LIG;
+  sub less_plus.liga'         LIG  greater   by less_plus_greater.liga;
+} less_plus_greater;
+
+lookup less_slash_greater {
+  sub less_slash_greater.liga LIG   greater'  by LIG;
+  ignore sub less_slash.liga' LIG greater greater;
+  sub less_slash.liga'        LIG   greater   by less_slash_greater.liga;
+} less_slash_greater;
+
+lookup less_bar_greater {
+  sub less_bar_greater.liga LIG   greater'  by LIG;
+  ignore sub less_bar.liga' LIG greater greater;
+  sub less_bar.liga'        LIG   greater   by less_bar_greater.liga;
+} less_bar_greater;
+
+lookup less_exclam_hyphen_hyphen {
+  sub less_exclam_hyphen_hyphen.liga  LIG     LIG       hyphen' by LIG;
+  sub less_exclam_hyphen_hyphen.liga  LIG     hyphen'   hyphen  by LIG;
+  sub less_exclam_hyphen_hyphen.liga  exclam' hyphen    hyphen  by LIG;
+  ignore sub less less' exclam hyphen hyphen;
+  ignore sub less' exclam hyphen hyphen hyphen;
+  ignore sub parenleft question less' exclam hyphen hyphen;
+  sub less'                           exclam  hyphen    hyphen  by less_exclam_hyphen_hyphen.liga;
+} less_exclam_hyphen_hyphen;
+
+
+### Ampersand
+lookup ampersand_ampersand {
+  sub ampersand_ampersand.liga  ampersand'  by LIG;
+  ignore sub ampersand ampersand' ampersand;
+  ignore sub ampersand' ampersand ampersand;
+  sub ampersand'                ampersand   by ampersand_ampersand.liga;
+} ampersand_ampersand;
+
+
+### Asciicircum
+lookup asciicircum_equal {
+  sub asciicircum_equal.liga    equal'    by LIG;
+  ignore sub asciicircum asciicircum' equal;
+  ignore sub asciicircum' equal equal;
+  sub asciicircum'              equal     by asciicircum_equal.liga;
+} asciicircum_equal;
+
+
+### Asciitilde
+lookup asciitilde_asciitilde {
+  sub asciitilde_asciitilde.liga  asciitilde'   by LIG;
+  ignore sub asciitilde asciitilde' asciitilde;
+  ignore sub asciitilde' asciitilde asciitilde;
+  sub asciitilde'                 asciitilde    by asciitilde_asciitilde.liga;
+} asciitilde_asciitilde;
+
+lookup asciitilde_at {
+  sub asciitilde_at.liga  at'   by LIG;
+  ignore sub asciitilde asciitilde' at;
+  ignore sub asciitilde' at at;
+  sub asciitilde'         at    by asciitilde_at.liga;
+} asciitilde_at;
+
+lookup asciitilde_greater {
+  sub asciitilde_greater.liga greater'  by LIG;
+  ignore sub asciitilde asciitilde' greater;
+  ignore sub asciitilde' greater greater;
+  sub asciitilde'             greater   by asciitilde_greater.liga;
+} asciitilde_greater;
+
+lookup asciitilde_hyphen {
+  sub asciitilde_hyphen.liga  hyphen'   by LIG;
+  ignore sub asciitilde asciitilde' hyphen;
+  ignore sub asciitilde' hyphen hyphen;
+  sub asciitilde'             hyphen    by asciitilde_hyphen.liga;
+} asciitilde_hyphen;
+
+lookup asciitilde_asciitilde_greater {
+  sub asciitilde_asciitilde_greater.liga  LIG  greater'  by LIG;
+  ignore sub asciitilde_asciitilde.liga' LIG greater greater;
+  sub asciitilde_asciitilde.liga'         LIG  greater   by asciitilde_asciitilde_greater.liga;
+} asciitilde_asciitilde_greater;
+
+lookup asciitilde_equal {
+  sub asciitilde_equal.liga  equal'   by LIG;
+  ignore sub asciitilde asciitilde' equal;
+  ignore sub asciitilde' equal equal;
+  sub asciitilde'             equal    by asciitilde_equal.liga;
+} asciitilde_equal;
+
+
+### Asterisk
+lookup asterisk_asterisk {
+  sub asterisk_asterisk.liga    asterisk'   by LIG;
+  ignore sub asterisk asterisk' asterisk;
+  ignore sub asterisk' asterisk asterisk asterisk;
+  ignore sub slash asterisk' asterisk;
+  ignore sub asterisk' asterisk slash;
+  sub asterisk'                 asterisk    by asterisk_asterisk.liga;
+} asterisk_asterisk;
+
+lookup asterisk_asterisk_asterisk {
+  sub asterisk_asterisk_asterisk.liga LIG  asterisk'  by LIG;
+  ignore sub asterisk_asterisk.liga' LIG asterisk slash;
+  sub asterisk_asterisk.liga'         LIG  asterisk   by asterisk_asterisk_asterisk.liga;
+} asterisk_asterisk_asterisk;
+
+lookup asterisk_greater {
+  sub asterisk_greater.liga   greater'  by LIG;
+  ignore sub asterisk asterisk' greater;
+  ignore sub asterisk' greater greater;
+  sub asterisk'               greater   by asterisk_greater.liga;
+} asterisk_greater;
+
+lookup asterisk_slash {
+  sub asterisk_slash.liga    slash'   by LIG;
+  ignore sub asterisk asterisk' slash;
+  ignore sub asterisk' slash slash;
+  ignore sub slash asterisk' slash;
+  ignore sub asterisk' slash asterisk;
+  sub asterisk'              slash    by asterisk_slash.liga;
+} asterisk_slash;
+
+lookup asterisk_parenright {
+  sub asterisk_parenright.liga  parenright' by LIG;
+  ignore sub parenleft asterisk' parenright;
+  ignore sub asterisk asterisk' parenright;
+  ignore sub asterisk' parenright parenright;
+  sub asterisk'                 parenright  by asterisk_parenright.liga;
+} asterisk_parenright;
+
+### Backslash
+lookup backslash_slash {
+  sub backslash_slash.liga  slash'  by LIG;
+  ignore sub @NotSpace backslash' slash;
+  ignore sub backslash' slash @NotSpace;
+  sub backslash'  slash  by backslash_slash.liga;
+} backslash_slash;
+
+lookup backslash_backslash {
+  sub backslash_backslash.liga  backslash'  by LIG;
+  ignore sub backslash backslash' backslash;
+  ignore sub backslash' backslash backslash;
+  sub backslash'  backslash  by backslash_backslash.liga;
+} backslash_backslash;
+
+
+### Bar
+lookup bar_bar {
+  sub bar_bar.liga  bar' by LIG;
+  ignore sub bar bar' bar;
+  ignore sub bar' bar bar bar;
+  ignore sub [hyphen equal] bar' bar;
+  ignore sub bar' bar [hyphen equal];
+  ignore sub bar' bar bar [hyphen equal];
+  ignore sub bar' bar equal [equal less greater bar colon exclam slash];
+  ignore sub bar bar' bar greater;
+  ignore sub [less greater] bar' bar [less greater];
+  ignore sub less bar' bar;
+  ignore sub less bar bar';
+  sub bar'          bar  by bar_bar.liga;
+} bar_bar;
+
+lookup bar_bar_bar {
+  sub bar_bar_bar.liga  LIG bar'  by LIG;
+  sub bar_bar.liga'     LIG bar   by bar_bar_bar.liga;
+} bar_bar_bar;
+
+lookup bar_greater {
+  sub bar_greater.liga  greater' by LIG;
+  ignore sub bar bar' greater;
+  ignore sub bar' greater greater;
+  ignore sub less bar bar' greater;
+  sub bar'              greater  by bar_greater.liga;
+} bar_greater;
+
+lookup bar_braceright {
+  sub bar_braceright.liga braceright' by LIG;
+  ignore sub bar bar' braceright;
+  ignore sub bar' braceright braceright;
+  ignore sub braceleft bar' braceright;
+  sub bar'                braceright  by bar_braceright.liga;
+} bar_braceright;
+
+lookup bar_bracketright {
+  sub bar_bracketright.liga bracketright' by LIG;
+  ignore sub bar bar' bracketright;
+  ignore sub bar' bracketright bracketright;
+  ignore sub bracketleft bar' bracketright;
+  sub bar'                  bracketright  by bar_bracketright.liga;
+} bar_bracketright;
+
+lookup bar_bar_greater {
+  sub bar_bar_greater.liga  LIG   greater' by LIG;
+  ignore sub bar_bar.liga' LIG greater greater;
+  sub bar_bar.liga'         LIG   greater  by bar_bar_greater.liga;
+} bar_bar_greater;
+
+lookup bar_bar_bar_greater {
+  sub bar_bar_bar_greater.liga LIG LIG greater'  by LIG;
+  ignore sub bar_bar_bar.liga' LIG LIG greater greater;
+  sub bar_bar_bar.liga' LIG LIG greater  by bar_bar_bar_greater.liga;
+
+} bar_bar_bar_greater;
+
+
+### Brace left
+lookup braceleft_bar {
+  sub braceleft_bar.liga  bar'  by LIG;
+  ignore sub braceleft braceleft' bar;
+  ignore sub braceleft' bar bar;
+  ignore sub braceleft' bar braceright;
+  sub braceleft'          bar   by braceleft_bar.liga;
+} braceleft_bar;
+
+### Brace right
+lookup braceright_numbersign {
+  sub braceright_numbersign.liga  numbersign'  by LIG;
+  ignore sub braceright braceright' numbersign;
+  ignore sub braceright' numbersign numbersign;
+  sub braceright'                 numbersign   by braceright_numbersign.liga;
+} braceright_numbersign;
+
+### Bracket left
+lookup bracketleft_bar {
+  sub bracketleft_bar.liga  bar' by LIG;
+  ignore sub bracketleft bracketleft' bar;
+  ignore sub bracketleft' bar bar;
+  ignore sub bracketleft' bar bracketright;
+  sub bracketleft'          bar  by bracketleft_bar.liga;
+} bracketleft_bar;
+
+
+### Bracket right
+lookup bracketright_numbersign {
+  sub bracketright_numbersign.liga  numbersign'  by LIG;
+  ignore sub bracketright bracketright' numbersign;
+  ignore sub bracketright' numbersign numbersign;
+  sub bracketright'                 numbersign   by bracketright_numbersign.liga;
+} bracketright_numbersign;
+
+
+### Colon
+lookup colon_colon {
+  sub colon_colon.liga  colon'  by LIG;
+  ignore sub colon colon' colon;
+  ignore sub colon' colon colon colon;
+  ignore sub parenleft question colon' colon;
+  ignore sub colon' colon [less greater];
+  ignore sub [less greater] colon' colon;
+  sub colon'            colon   by colon_colon.liga;
+} colon_colon;
+
+lookup colon_colon_colon {
+  sub colon_colon_colon.liga   LIG   colon' by LIG;
+  sub colon_colon.liga'        LIG   colon  by colon_colon_colon.liga;
+} colon_colon_colon;
+
+lookup colon_equal {
+  sub colon_equal.liga  equal'  by LIG;
+  ignore sub colon colon' equal;
+  ignore sub colon' equal equal;
+  ignore sub parenleft question colon' equal;
+  ignore sub equal colon' equal;
+  sub colon'            equal   by colon_equal.liga;
+} colon_equal;
+
+lookup colon_colon_equal {
+  sub colon_colon_equal.liga  LIG   equal'  by LIG;
+  ignore sub colon_colon.liga' LIG equal equal;
+  sub colon_colon.liga'       LIG   equal   by colon_colon_equal.liga;
+} colon_colon_equal;
+
+lookup colon_slash_slash {
+  sub colon_slash_slash.liga  LIG     slash' by LIG;
+  sub colon_slash_slash.liga  slash'  slash  by LIG;
+  ignore sub colon colon' slash slash;
+  ignore sub colon' slash slash slash;
+  sub colon'                  slash   slash  by colon_slash_slash.liga;
+} colon_slash_slash;
+
+
+## Dollar
+lookup dollar_greater {
+  sub dollar_greater.liga greater'  by LIG;
+  ignore sub dollar dollar' greater;
+  ignore sub dollar' greater greater;
+  sub dollar' greater  by dollar_greater.liga;
+} dollar_greater;
+
+### Hyphen
+lookup hyphen_asciitilde {
+  sub hyphen_asciitilde.liga    asciitilde'  by LIG;
+  ignore sub hyphen hyphen' asciitilde;
+  ignore sub hyphen' asciitilde asciitilde;
+  sub hyphen'                   asciitilde   by hyphen_asciitilde.liga;
+} hyphen_asciitilde;
+
+lookup hyphen_hyphen {
+  sub hyphen_hyphen.liga   hyphen'  by LIG;
+  ignore sub hyphen hyphen' hyphen;
+  ignore sub hyphen' hyphen hyphen hyphen;
+  ignore sub [less greater bar] hyphen' hyphen;
+  ignore sub hyphen' hyphen [less greater bar];
+  sub hyphen'               hyphen   by hyphen_hyphen.liga;
+} hyphen_hyphen;
+
+lookup hyphen_hyphen_hyphen {
+  sub hyphen_hyphen_hyphen.liga   LIG    hyphen'   by LIG;
+  ignore sub hyphen_hyphen.liga' LIG hyphen [less greater bar];
+  sub hyphen_hyphen.liga'         LIG    hyphen    by hyphen_hyphen_hyphen.liga;
+} hyphen_hyphen_hyphen;
+
+
+### Greater
+lookup greater_greater {
+  sub greater_greater.liga  greater'  by LIG;
+  ignore sub greater greater' greater;
+  ignore sub greater' greater greater greater;
+  ignore sub [asterisk plus dollar] greater' greater;
+  ignore sub hyphen greater' greater;
+  ignore sub equal greater' greater equal;
+  ignore sub equal equal greater' greater; # for consistency with other similar operators
+  ignore sub greater' greater hyphen;
+  ignore sub greater' greater equal [equal less greater bar colon exclam slash];
+  sub greater'              greater   by greater_greater.liga;
+} greater_greater;
+
+lookup greater_greater_greater {
+  sub greater_greater_greater.liga  LIG   greater'  by LIG;
+  sub greater_greater.liga'         LIG   greater   by greater_greater_greater.liga;
+} greater_greater_greater;
+
+lookup greater_greater_equal {
+  sub greater_greater_equal.liga  LIG   equal'  by LIG;
+  sub greater_greater.liga'       LIG   equal   by greater_greater_equal.liga;
+} greater_greater_equal;
+
+lookup greater_equal {
+  sub greater_equal.liga  equal'  by LIG;
+  ignore sub greater greater' equal;
+  ignore sub greater' equal equal;
+  ignore sub equal greater' equal;
+  ignore sub greater' equal [less greater bar colon exclam slash];
+  sub greater'            equal   by greater_equal.liga;
+} greater_equal;
+
+### Less moved to top of CALT
+
+### Numbersign
+lookup numbersign_braceleft {
+  sub numbersign_braceleft.liga braceleft'  by LIG;
+  ignore sub numbersign numbersign' braceleft;
+  ignore sub numbersign' braceleft braceleft;
+  sub numbersign'               braceleft   by numbersign_braceleft.liga;
+} numbersign_braceleft;
+
+lookup numbersign_bracketleft {
+  sub numbersign_bracketleft.liga bracketleft'  by LIG;
+  ignore sub numbersign numbersign' bracketleft;
+  ignore sub numbersign' bracketleft bracketleft;
+  sub numbersign'                 bracketleft   by numbersign_bracketleft.liga;
+} numbersign_bracketleft;
+
+lookup numbersign_colon {
+  sub numbersign_colon.liga colon'  by LIG;
+  ignore sub numbersign numbersign' colon;
+  ignore sub numbersign' colon colon;
+  sub numbersign'           colon   by numbersign_colon.liga;
+} numbersign_colon;
+
+lookup numbersign_equal {
+  sub numbersign_equal.liga equal'  by LIG;
+  ignore sub numbersign numbersign' equal;
+  ignore sub numbersign' equal equal;
+  sub numbersign'           equal   by numbersign_equal.liga;
+} numbersign_equal;
+
+lookup numbersign_exclam {
+  sub numbersign_exclam.liga  exclam'  by LIG;
+  ignore sub numbersign numbersign' exclam;
+  ignore sub numbersign' exclam exclam;
+  sub numbersign'             exclam   by numbersign_exclam.liga;
+} numbersign_exclam;
+
+lookup numbersign_parenleft {
+  sub numbersign_parenleft.liga parenleft'  by LIG;
+  ignore sub numbersign numbersign' parenleft;
+  ignore sub numbersign' parenleft parenleft;
+  sub numbersign'               parenleft   by numbersign_parenleft.liga;
+} numbersign_parenleft;
+
+lookup numbersign_question {
+  sub numbersign_question.liga  question'  by LIG;
+  ignore sub numbersign numbersign' question;
+  ignore sub numbersign' question question;
+  sub numbersign'               question   by numbersign_question.liga;
+} numbersign_question;
+
+lookup numbersign_underscore {
+  sub numbersign_underscore.liga  underscore'  by LIG;
+  ignore sub numbersign numbersign' underscore;
+  ignore sub numbersign' underscore underscore;
+  sub numbersign'                 underscore   by numbersign_underscore.liga;
+} numbersign_underscore;
+
+lookup numbersign_underscore_parenleft {
+  sub numbersign_underscore_parenleft.liga  LIG  parenleft'  by LIG;
+  ignore sub numbersign_underscore.liga' LIG parenleft parenleft;
+  sub numbersign_underscore.liga'           LIG  parenleft   by numbersign_underscore_parenleft.liga;
+} numbersign_underscore_parenleft;
+
+
+### Paren left
+lookup parenleft_asterisk {
+  sub parenleft_asterisk.liga asterisk'  by LIG;
+  ignore sub parenleft  parenleft'  asterisk;
+  ignore sub parenleft' asterisk    asterisk;
+  ignore sub parenleft' asterisk    parenright;
+  sub parenleft'              asterisk   by parenleft_asterisk.liga;
+} parenleft_asterisk;
+
+
+### Percent
+lookup percent_percent {
+  sub percent_percent.liga  percent'  by LIG;
+  ignore sub percent percent' percent;
+  ignore sub percent' percent percent;
+  sub percent'              percent   by percent_percent.liga;
+} percent_percent;
+
+
+### Period
+lookup period_equal {
+  sub period_equal.liga equal'  by LIG;
+  ignore sub period period' equal;
+  ignore sub period' equal equal;
+  sub period'           equal   by period_equal.liga;
+} period_equal;
+
+lookup period_period {
+  sub period_period.liga period'  by LIG;
+  ignore sub period period' period;
+  ignore sub period' period period period;
+  sub period'            period   by period_period.liga;
+} period_period;
+
+lookup period_period_period {
+  sub period_period_period.liga LIG  period'  by LIG;
+  sub period_period.liga'       LIG  period   by period_period_period.liga;
+} period_period_period;
+
+lookup period_question {
+  sub period_question.liga  question'  by LIG;
+  ignore sub period period' question;
+  ignore sub period' question question;
+  sub period'               question   by period_question.liga;
+} period_question;
+
+lookup period_hyphen {
+  sub period_hyphen.liga  hyphen'  by LIG;
+  ignore sub period period' hyphen;
+  ignore sub period' hyphen hyphen;
+  sub period'               hyphen   by period_hyphen.liga;
+} period_hyphen;
+
+lookup period_period_equal {
+  sub period_period_equal.liga  LIG  equal'  by LIG;
+  ignore sub period_period.liga' LIG equal equal;
+  sub period_period.liga'       LIG  equal   by period_period_equal.liga;
+} period_period_equal;
+
+lookup period_period_less {
+  sub period_period_less.liga  LIG  less'  by LIG;
+  ignore sub period_period.liga' LIG less less;
+  sub period_period.liga'      LIG  less   by period_period_less.liga;
+} period_period_less;
+
+
+### Plus
+lookup plus_greater {
+  sub plus_greater.liga   greater'  by LIG;
+  ignore sub plus plus' greater;
+  ignore sub plus' greater greater;
+  sub plus'               greater   by plus_greater.liga;
+} plus_greater;
+
+lookup plus_plus {
+  sub plus_plus.liga  plus'  by LIG;
+  ignore sub plus plus' plus;
+  ignore sub plus' plus plus plus;
+  sub plus'           plus   by plus_plus.liga;
+} plus_plus;
+
+lookup plus_plus_plus {
+  sub plus_plus_plus.liga LIG  plus'  by LIG;
+  ignore sub plus_plus.liga' LIG plus plus;
+  sub plus_plus.liga' LIG  plus  by plus_plus_plus.liga;
+} plus_plus_plus;
+
+### Question
+lookup question_equal {
+  sub question_equal.liga equal'  by LIG;
+  ignore sub question question' equal;
+  ignore sub question' equal equal;
+  ignore sub parenleft question' equal;
+  ignore sub less question' equal;
+  sub question'           equal   by question_equal.liga;
+} question_equal;
+
+lookup question_period {
+  sub question_period.liga  period'  by LIG;
+  ignore sub question question' period;
+  ignore sub question' period period;
+  sub question'             period   by question_period.liga;
+} question_period;
+
+lookup question_question {
+  sub question_question.liga  question'  by LIG;
+  ignore sub question question' question;
+  ignore sub question' question question;
+  sub question'               question   by question_question.liga;
+} question_question;
+
+lookup question_question_equal {
+  sub question_question_equal.liga  LIG equal'  by LIG;
+  sub question_question.liga'       LIG equal   by question_question_equal.liga;
+} question_question_equal;
+
+lookup question_colon {
+  sub question_colon.liga  colon'  by LIG;
+  ignore sub question question' colon;
+  ignore sub question' colon colon;
+  sub question'               colon   by question_colon.liga;
+} question_colon;
+
+### Semicolon
+lookup semicolon_semicolon {
+  sub semicolon_semicolon.liga  semicolon'  by LIG;
+  ignore sub semicolon semicolon' semicolon;
+  ignore sub semicolon' semicolon semicolon;
+  sub semicolon'                semicolon   by semicolon_semicolon.liga;
+} semicolon_semicolon;
+
+
+### Slash
+lookup slash_asterisk {
+  sub slash_asterisk.liga asterisk'  by LIG;
+  ignore sub slash slash' asterisk;
+  ignore sub slash' asterisk asterisk;
+  ignore sub slash' asterisk slash;
+  ignore sub asterisk slash' asterisk;
+  sub slash'              asterisk   by slash_asterisk.liga;
+} slash_asterisk;
+
+lookup slash_greater {
+  sub slash_greater.liga  greater'  by LIG;
+  ignore sub slash slash' greater;
+  ignore sub slash' greater greater;
+  sub slash'              greater   by slash_greater.liga;
+} slash_greater;
+
+lookup slash_slash {
+  sub slash_slash.liga  slash'  by LIG;
+  ignore sub slash slash' slash;
+  ignore sub slash' slash slash slash;
+  ignore sub equal slash' slash;
+  ignore sub slash' slash equal;
+  sub slash'            slash   by slash_slash.liga;
+} slash_slash;
+
+lookup slash_slash_slash {
+  sub slash_slash_slash.liga  LIG   slash'  by LIG;
+  sub slash_slash.liga'       LIG   slash   by slash_slash_slash.liga;
+} slash_slash_slash;
+
+lookup slash_backslash {
+  sub slash_backslash.liga  backslash'  by LIG;
+  ignore sub @NotSpace slash' backslash;
+  ignore sub slash' backslash @NotSpace;
+  sub slash'                backslash   by slash_backslash.liga;
+} slash_backslash;
+
+
+### WWW
+lookup w_w_w {
+  sub w_w_w.liga  LIG  w' by LIG;
+  sub w_w_w.liga  w'   w  by LIG;
+  ignore sub w w' w w;
+  ignore sub w' w w w;
+  sub w'          w    w  by w_w_w.liga;
+} w_w_w;
+
+#fix rvrn issues :/
+
+lookup less_dollar_rvrn {
+  sub less_dollar.liga.BRACKET.600 dollar.BRACKET.600' by LIG;
+  ignore sub less less' dollar.BRACKET.600;
+  ignore sub less' dollar.BRACKET.600 dollar.BRACKET.600;
+  sub less'            		         dollar.BRACKET.600  by less_dollar.liga.BRACKET.600;
+} less_dollar_rvrn;
+
+lookup less_dollar_greater_rvrn {
+  sub less_dollar_greater.liga.BRACKET.600   LIG    greater'  by LIG;
+  sub less_dollar.liga.BRACKET.600'          LIG    greater   by less_dollar_greater.liga;
+} less_dollar_greater_rvrn;
+
+lookup dollar_greater_rvrn {
+  sub dollar_greater.liga.BRACKET.600 greater'  by LIG;
+  ignore sub dollar.BRACKET.600 dollar.BRACKET.600' greater;
+  ignore sub dollar.BRACKET.600' greater greater;
+  sub dollar.BRACKET.600'             greater  by dollar_greater.liga.BRACKET.600;
+} dollar_greater_rvrn;
+
+
+### Vertical-align colon/greater/less
+
+# :> :< >: <:
+# :>: :<:
+# <:> >:< <:< >:>
+# <::> <::< >::< >::>
+# <:::> <:::< >:::< >:::>
+# <::::> <::::< >::::< >::::>
+
+lookup center {
+    #574 :>= :<=
+    ignore sub colon' [less greater] [equal hyphen];
+    ignore sub colon colon' [less greater]; # ignores the :::< case
+
+    # middles & ends
+    sub [less.center greater.center colon.center] colon' by colon.center;
+    sub colon.center [less greater]' by [less.center greater.center];
+
+    # starts
+    sub [less greater]' colon by [less.center greater.center];
+    sub colon' [less greater] by colon.center;
+} center;
+
+lookup equal_arrows {
+  # Disable |||
+  ignore sub bar bar' bar equal;
+  ignore sub bar bar' equal;
+  ignore sub [equal_start.seq equal_middle.seq] bar' bar bar;
+
+
+  # equal middle & end
+  sub [less_equal_start.seq less_equal_middle.seq greater_equal_start.seq greater_equal_middle.seq bar_equal_start.seq bar_equal_middle.seq slash_equal_start.seq slash_equal_middle.seq colon_equal_middle.seq exclam_equal_middle.seq equal_start.seq equal_middle.seq] equal' [equal less greater bar slash colon exclam] by equal_middle.seq;
+
+  sub [less_less_equal_start.seq less_less_equal_middle.seq greater_greater_equal_start.seq greater_greater_equal_middle.seq  bar_bar_equal_start.seq bar_bar_equal_middle.seq slash_slash_equal_start.seq slash_slash_equal_middle.seq] LIG equal' [equal less greater bar slash colon exclam] by equal_middle.seq;
+
+  sub [less_equal_start.seq less_equal_middle.seq greater_equal_start.seq greater_equal_middle.seq bar_equal_start.seq bar_equal_middle.seq slash_equal_start.seq slash_equal_middle.seq colon_equal_middle.seq exclam_equal_middle.seq equal_start.seq equal_middle.seq] equal' by equal_end.seq;
+
+  sub [less_less_equal_start.seq less_less_equal_middle.seq greater_greater_equal_start.seq greater_greater_equal_middle.seq bar_bar_equal_start.seq bar_bar_equal_middle.seq slash_slash_equal_start.seq slash_slash_equal_middle.seq] LIG equal' by equal_end.seq;
+
+
+  # double middles
+  sub [equal_start.seq equal_middle.seq] less_less_equal_middle.seq       less'    equal by LIG;
+  sub [equal_start.seq equal_middle.seq] less'                            less     equal by less_less_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] greater_greater_equal_middle.seq greater' equal by LIG;
+  sub [equal_start.seq equal_middle.seq] greater'                         greater  equal by greater_greater_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] bar_bar_equal_middle.seq         bar'     equal by LIG;
+  sub [equal_start.seq equal_middle.seq] bar'                             bar      equal by bar_bar_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] slash_slash_equal_middle.seq     slash'   equal by LIG;
+  sub [equal_start.seq equal_middle.seq] slash'                           slash    equal by slash_slash_equal_middle.seq;
+
+  # single middles
+  sub [equal_start.seq equal_middle.seq] less'    equal by less_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] greater' equal by greater_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] bar'     equal by bar_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] slash'   equal by slash_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] colon'   equal by colon_equal_middle.seq;
+  sub [equal_start.seq equal_middle.seq] exclam'  equal by exclam_equal_middle.seq;
+
+  # double ends
+  sub [equal_start.seq equal_middle.seq] less_less_equal_end.seq        less'    by LIG;
+  sub [equal_start.seq equal_middle.seq] less'                          less     by less_less_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] greater_greater_equal_end.seq  greater' by LIG;
+  sub [equal_start.seq equal_middle.seq] greater'                       greater  by greater_greater_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] bar_bar_equal_end.seq          bar'     by LIG;
+  sub [equal_start.seq equal_middle.seq] bar'                           bar      by bar_bar_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] slash_slash_equal_end.seq      slash'   by LIG;
+  sub [equal_start.seq equal_middle.seq] slash'                         slash    by slash_slash_equal_end.seq;
+
+  # single ends
+  sub [equal_start.seq equal_middle.seq] less'    by less_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] greater' by greater_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] bar'     by bar_equal_end.seq;
+  sub [equal_start.seq equal_middle.seq] slash'   by slash_equal_end.seq;
+
+  # double beginnings
+  sub less_less_equal_start.seq       less'    equal by LIG;
+  sub less'                           less     equal by less_less_equal_start.seq;
+  sub greater_greater_equal_start.seq greater' equal by LIG;
+  sub greater'                        greater  equal by greater_greater_equal_start.seq;
+  sub bar_bar_equal_start.seq         bar'     equal by LIG;
+  sub bar'                            bar      equal by bar_bar_equal_start.seq;
+  sub slash_slash_equal_start.seq     slash'   equal by LIG;
+  sub slash'                          slash    equal by slash_slash_equal_start.seq;
+
+  # Disable >=< #548
+  sub greater' equal less [equal less] by greater_equal_start.seq;
+  ignore sub greater' equal less;
+  
+  # Disable =< #479 #468 #424 #406 #355 #305
+  sub equal' less [equal less] by equal_start.seq;
+
+  # Disable =/ #1056
+  sub equal'   slash [equal slash] by equal_start.seq; 
+
+  # single beginnings
+  sub less'    equal [equal less greater bar slash colon exclam] by less_equal_start.seq; # disable >= <= as they're used in math
+  sub greater' equal [equal less greater bar slash colon exclam] by greater_equal_start.seq;
+  sub bar'     equal [equal less greater bar slash colon exclam] by bar_equal_start.seq; # disable |= 
+  sub slash'   equal by slash_equal_start.seq;
+  sub equal'  [equal greater bar colon exclam] by equal_start.seq;
+
+} equal_arrows;
+
+### Arbitrary-length arrows #346
+
+lookup hyphen_arrows {
+  # Disable |||
+  ignore sub bar bar' bar hyphen;
+  ignore sub bar bar' hyphen;
+  ignore sub [hyphen_start.seq hyphen_middle.seq] bar' bar bar;
+
+  # hyphen middle & end
+  sub [less_hyphen_start.seq less_hyphen_middle.seq greater_hyphen_start.seq greater_hyphen_middle.seq bar_hyphen_start.seq bar_hyphen_middle.seq hyphen_start.seq hyphen_middle.seq] hyphen' [hyphen less greater bar] by hyphen_middle.seq;
+
+  sub [less_less_hyphen_start.seq less_less_hyphen_middle.seq greater_greater_hyphen_start.seq greater_greater_hyphen_middle.seq bar_bar_hyphen_start.seq bar_bar_hyphen_middle.seq] LIG hyphen' [hyphen less greater bar] by hyphen_middle.seq;
+
+  sub [less_hyphen_start.seq less_hyphen_middle.seq greater_hyphen_start.seq greater_hyphen_middle.seq bar_hyphen_start.seq bar_hyphen_middle.seq hyphen_start.seq hyphen_middle.seq] hyphen' by hyphen_end.seq;
+
+  sub [less_less_hyphen_start.seq less_less_hyphen_middle.seq greater_greater_hyphen_start.seq greater_greater_hyphen_middle.seq bar_bar_hyphen_start.seq bar_bar_hyphen_middle.seq] LIG hyphen' by hyphen_end.seq;
+
+  # double middles
+  sub [hyphen_start.seq hyphen_middle.seq] less_less_hyphen_middle.seq        less'    hyphen by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] less'                              less     hyphen by less_less_hyphen_middle.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] greater_greater_hyphen_middle.seq  greater' hyphen by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] greater'                           greater  hyphen by greater_greater_hyphen_middle.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] bar_bar_hyphen_middle.seq          bar'     hyphen by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] bar'                               bar      hyphen by bar_bar_hyphen_middle.seq;
+
+  # single middles
+  sub [hyphen_start.seq hyphen_middle.seq] less'    hyphen by less_hyphen_middle.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] greater' hyphen by greater_hyphen_middle.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] bar'     hyphen by bar_hyphen_middle.seq;
+
+  # double ends
+  sub [hyphen_start.seq hyphen_middle.seq] less_less_hyphen_end.seq       less'    by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] less'                          less     by less_less_hyphen_end.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] greater_greater_hyphen_end.seq greater' by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] greater'                       greater  by greater_greater_hyphen_end.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] bar_bar_hyphen_end.seq         bar'     by LIG;
+  sub [hyphen_start.seq hyphen_middle.seq] bar'                           bar      by bar_bar_hyphen_end.seq;
+
+  # single ends
+  sub [hyphen_start.seq hyphen_middle.seq] less'    by less_hyphen_end.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] greater' by greater_hyphen_end.seq;
+  sub [hyphen_start.seq hyphen_middle.seq] bar'     by bar_hyphen_end.seq;
+
+  # double beginnings
+  sub less_less_hyphen_start.seq        less'    hyphen by LIG;
+  sub less'                             less     hyphen by less_less_hyphen_start.seq;
+  sub greater_greater_hyphen_start.seq  greater' hyphen by LIG;
+  sub greater'                          greater  hyphen by greater_greater_hyphen_start.seq;
+  sub bar_bar_hyphen_start.seq          bar'     hyphen by LIG;
+  sub bar'                              bar      hyphen by bar_bar_hyphen_start.seq;
+
+  # single beginnings
+  sub less'    hyphen by less_hyphen_start.seq;
+  sub greater' hyphen by greater_hyphen_start.seq;
+  sub bar'     hyphen by bar_hyphen_start.seq;
+  sub hyphen' [hyphen less greater bar] by hyphen_start.seq;
+} hyphen_arrows;
+
+lookup numbersigns {
+  # middle parts
+  sub [numbersign_start.seq numbersign_middle.seq] numbersign' numbersign by numbersign_middle.seq;
+
+  # ends
+  sub [numbersign_start.seq numbersign_middle.seq] numbersign' by numbersign_end.seq;
+  
+  # beginnings
+  sub numbersign' numbersign by numbersign_start.seq; 
+} numbersigns;
+
+lookup underscores {
+  # middle parts
+  sub [underscore_start.seq underscore_middle.seq] bar' underscore by bar_underscore_middle.seq;
+
+  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' bar underscore by underscore_middle.seq;
+  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' underscore by underscore_middle.seq;
+
+  # ends
+  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' by underscore_end.seq;
+  
+  # beginnings
+  sub underscore' bar underscore by underscore_start.seq; 
+  sub underscore' underscore by underscore_start.seq; 
+} underscores;
+
+#Other non-ligature bits
+
+sub dcaron' [lacute lcaron lcommaaccent ldot lslash b h k l hbar hcircumflex kcommaaccent @Uppercase] by dcaron.alt;
+sub [B C D E F G H I J K M N O P Q R S T U V W X Y Z seven f Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR be-cy ve-cy iishort-cy ushort-cy be-cy.loclSRB ve-cy.salt] [b h k shha-cy iu-cy.loclBGR ka-cy.loclBGR]' by [b.alt h.alt k.alt shha-cy.alt iu-cy.loclBGR.alt ka-cy.loclBGR.alt];
+
+} calt;
 feature subs {
 # automatic
 sub zero by zeroinferior;
@@ -225,9 +1223,7 @@ sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
 
-} dnom;
-
-feature frac {
+} dnom;feature frac {
 # automatic
 lookup FRAC {
 	sub slash by fraction;
@@ -240,17 +1236,13 @@ lookup DOWN {
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 } DOWN;
 
-} frac;
-
-feature ordn {
+} frac;feature ordn {
 # automatic
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
 
-} ordn;
-
-feature case {
+} ordn;feature case {
 # automatic
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
@@ -268,150 +1260,843 @@ sub horncomb by horncomb.case;
 sub tonos by tonos.case;
 sub brevecomb-cy by brevecomb-cy.case;
 
-} case;
+} case;feature salt {
+sub f by f.salt;
+sub florin by f;
+sub l by l.salt;
+sub lacute by lacute.salt;
+sub lbar by lbar.salt;
+sub lbelt by lbelt.salt;
+sub lcaron by lcaron.salt;
+sub lcommaaccent by lcommaaccent.salt;
+sub ldot by ldot.salt;
+sub ldotbelow by ldotbelow.salt;
+sub llinebelow by llinebelow.salt;
+sub lmiddletilde by lmiddletilde.salt;
+sub lslash by lslash.salt;
+sub r by r.salt;
+sub racute by racute.salt;
+sub rcaron by rcaron.salt;
+sub rcommaaccent by rcommaaccent.salt;
+sub rdotbelow by rdotbelow.salt;
+sub s by s.salt;
+sub sacute by sacute.salt;
+sub scaron by scaron.salt;
+sub scedilla by scedilla.salt;
+sub scircumflex by scircumflex.salt;
+sub scommaaccent by scommaaccent.salt;
+sub sdotbelow by sdotbelow.salt;
+sub ve-cy by ve-cy.salt;
+sub ze-cy by ze-cy.salt;
+sub che-cy by che-cy.salt;
+sub chedescender-cy by chedescender-cy.salt; 
+} salt;feature ss01 {
+# notes:
+# Name: Stylistic alternates
+sub f by f.salt;
+sub florin by f;
+sub l by l.salt;
+sub lacute by lacute.salt;
+sub lbar by lbar.salt;
+sub lbelt by lbelt.salt;
+sub lcaron by lcaron.salt;
+sub lcommaaccent by lcommaaccent.salt;
+sub ldot by ldot.salt;
+sub ldotbelow by ldotbelow.salt;
+sub llinebelow by llinebelow.salt;
+sub lmiddletilde by lmiddletilde.salt;
+sub lslash by lslash.salt;
+sub r by r.salt;
+sub racute by racute.salt;
+sub rcaron by rcaron.salt;
+sub rcommaaccent by rcommaaccent.salt;
+sub rdotbelow by rdotbelow.salt;
+sub s by s.salt;
+sub sacute by sacute.salt;
+sub scaron by scaron.salt;
+sub scedilla by scedilla.salt;
+sub scircumflex by scircumflex.salt;
+sub scommaaccent by scommaaccent.salt;
+sub sdotbelow by sdotbelow.salt;
+sub ve-cy by ve-cy.salt;
+sub ze-cy by ze-cy.salt;
+sub che-cy by che-cy.salt;
+sub chedescender-cy by chedescender-cy.salt; 
+} ss01;feature ss02 {
+# notes:
+# Name: Alternate not equals
+sub asciitilde_equal.liga by exclam_equal.liga;
 
-feature liga {
-# automatic
-# disabled
-#lookupflag IgnoreMarks;
-#sub bar bar bar greater by bar_bar_bar_greater.liga;
-#sub less bar bar bar by less_bar_bar_bar.liga;
-#sub less exclam hyphen hyphen by less_exclam_hyphen_hyphen.liga;
-#sub asciitilde asciitilde greater by asciitilde_asciitilde_greater.liga;
-#sub asterisk asterisk asterisk by asterisk_asterisk_asterisk.liga;
-#sub bar bar bar by bar_bar_bar.liga;
-#sub bar bar greater by bar_bar_greater.liga;
-#sub colon colon colon by colon_colon_colon.liga;
-#sub colon colon equal by colon_colon_equal.liga;
-#sub colon slash slash by colon_slash_slash.liga;
-#sub equal equal equal by equal_equal_equal.liga;
-#sub equal greater greater by equal_greater_greater.liga;
-#sub equal less less by equal_less_less.liga;
-#sub exclam equal equal by exclam_equal_equal.liga;
-#sub exclam exclam period by exclam_exclam_period.liga;
-#sub greater greater equal by greater_greater_equal.liga;
-#sub greater greater greater by greater_greater_greater.liga;
-#sub hyphen hyphen hyphen by hyphen_hyphen_hyphen.liga;
-#sub less asciitilde asciitilde by less_asciitilde_asciitilde.liga;
-#sub less asciitilde greater by less_asciitilde_greater.liga;
-#sub less asterisk greater by less_asterisk_greater.liga;
-#sub less bar bar by less_bar_bar.liga;
-#sub less bar greater by less_bar_greater.liga;
-#sub less dollar greater by less_dollar_greater.liga;
-#sub less less equal by less_less_equal.liga;
-#sub less less less by less_less_less.liga;
-#sub less plus greater by less_plus_greater.liga;
-#sub less slash greater by less_slash_greater.liga;
-#sub numbersign underscore parenleft by numbersign_underscore_parenleft.liga;
-#sub period period equal by period_period_equal.liga;
-#sub period period less by period_period_less.liga;
-#sub period period period by period_period_period.liga;
-#sub plus plus plus by plus_plus_plus.liga;
-#sub question question equal by question_question_equal.liga;
-#sub slash slash slash by slash_slash_slash.liga;
-#sub w w w by w_w_w.liga;
-#sub ampersand ampersand by ampersand_ampersand.liga;
-#sub asciicircum equal by asciicircum_equal.liga;
-#sub asciitilde asciitilde by asciitilde_asciitilde.liga;
-#sub asciitilde at by asciitilde_at.liga;
-#sub asciitilde equal by asciitilde_equal.liga;
-#sub asciitilde greater by asciitilde_greater.liga;
-#sub asciitilde hyphen by asciitilde_hyphen.liga;
-#sub asterisk asterisk by asterisk_asterisk.liga;
-#sub asterisk greater by asterisk_greater.liga;
-#sub asterisk parenright by asterisk_parenright.liga;
-#sub asterisk slash by asterisk_slash.liga;
-#sub backslash backslash by backslash_backslash.liga;
-#sub backslash slash by backslash_slash.liga;
-#sub bar bar by bar_bar.liga;
-#sub bar braceright by bar_braceright.liga;
-#sub bar bracketright by bar_bracketright.liga;
-#sub bar greater by bar_greater.liga;
-#sub braceleft bar by braceleft_bar.liga;
-#sub braceright numbersign by braceright_numbersign.liga;
-#sub bracketleft bar by bracketleft_bar.liga;
-#sub bracketright numbersign by bracketright_numbersign.liga;
-#sub colon colon by colon_colon.liga;
-#sub colon equal by colon_equal.liga;
-#sub dollar greater by dollar_greater.liga;
-#sub equal equal by equal_equal.liga;
-#sub exclam colon by exclam_colon.liga;
-#sub exclam equal by exclam_equal.liga;
-#sub exclam exclam by exclam_exclam.liga;
-#sub exclam period by exclam_period.liga;
-#sub greater equal by greater_equal.liga;
-#sub greater greater by greater_greater.liga;
-#sub hyphen asciitilde by hyphen_asciitilde.liga;
-#sub hyphen hyphen by hyphen_hyphen.liga;
-#sub less asciitilde by less_asciitilde.liga;
-#sub less asterisk by less_asterisk.liga;
-#sub less bar by less_bar.liga;
-#sub less dollar by less_dollar.liga;
-#sub less equal by less_equal.liga;
-#sub less greater by less_greater.liga;
-#sub less less by less_less.liga;
-#sub less plus by less_plus.liga;
-#sub less slash by less_slash.liga;
-#sub numbersign braceleft by numbersign_braceleft.liga;
-#sub numbersign bracketleft by numbersign_bracketleft.liga;
-#sub numbersign colon by numbersign_colon.liga;
-#sub numbersign equal by numbersign_equal.liga;
-#sub numbersign exclam by numbersign_exclam.liga;
-#sub numbersign parenleft by numbersign_parenleft.liga;
-#sub numbersign question by numbersign_question.liga;
-#sub numbersign underscore by numbersign_underscore.liga;
-#sub parenleft asterisk by parenleft_asterisk.liga;
-#sub percent percent by percent_percent.liga;
-#sub period equal by period_equal.liga;
-#sub period hyphen by period_hyphen.liga;
-#sub period period by period_period.liga;
-#sub period question by period_question.liga;
-#sub plus greater by plus_greater.liga;
-#sub plus plus by plus_plus.liga;
-#sub question colon by question_colon.liga;
-#sub question equal by question_equal.liga;
-#sub question period by question_period.liga;
-#sub question question by question_question.liga;
-#sub semicolon semicolon by semicolon_semicolon.liga;
-#sub slash asterisk by slash_asterisk.liga;
-#sub slash backslash by slash_backslash.liga;
-#sub slash greater by slash_greater.liga;
-#sub slash slash by slash_slash.liga;
-#sub underscore underscore by underscore_underscore.liga;
-#sub f i by fi;
-#sub f l by fl;
-} liga;
-
-feature zero {
-# automatic
+} ss02;feature ss03 {
+# notes:
+# Name: Serbian Local forms
+sub be-cy by be-cy.loclSRB;
+sub ge-cy by ge-cy.loclSRB; 
+sub pe-cy by pe-cy.loclSRB; 
+sub te-cy by te-cy.loclSRB; 
+} ss03;
+feature ss19 {
+# notes:
+# Name: Slashed zero
 sub zero by zero.zero;
-
-} zero;
-
-feature ss20 {
-# automatic
+} ss19;feature ss20 {
+# notes:
+# Name: Graphical Control
 sub acknowledgeControl by acknowledgeControl.ss20;
 sub backspaceControl by backspaceControl.ss20;
 sub bellControl by bellControl.ss20;
 sub cancelControl by cancelControl.ss20;
 sub carriageReturnControl by carriageReturnControl.ss20;
 sub dataLinkEscapeControl by dataLinkEscapeControl.ss20;
+sub deleteControl by deleteFormTwoControl;
+sub deviceControlFourControl by upperLeftQuadrantWhiteCircle;
+sub deviceControlOneControl by upperRightQuadrantWhiteCircle;
+sub deviceControlThreeControl by lowerLeftQuadrantWhiteCircle;
+sub deviceControlTwoControl by lowerRightQuadrantWhiteCircle;
 sub endOfMediumControl by endOfMediumControl.ss20;
 sub endOfTextControl by endOfTextControl.ss20;
 sub endOfTransmissionBlockControl by endOfTransmissionBlockControl.ss20;
 sub endOfTransmissionControl by endOfTransmissionControl.ss20;
 sub enquiryControl by enquiryControl.ss20;
 sub escapeControl by escapeControl.ss20;
+sub fileSeparatorControl by whiteUpperLeftQuadrantSquare;
 sub formFeedControl by formFeedControl.ss20;
+sub groupSeparatorControl by whiteLowerLeftQuadrantSquare;
 sub horizontalTabulationControl by horizontalTabulationControl.ss20;
 sub lineFeedControl by lineFeedControl.ss20;
 sub negativeAcknowledgeControl by negativeAcknowledgeControl.ss20;
+sub nullControl by whiteSquare;
+sub recordSeparatorControl by whiteLowerRightQuadrantSquare;
 sub shiftInControl by shiftInControl.ss20;
 sub shiftOutControl by shiftOutControl.ss20;
+sub spaceControl by upWhiteTriangle;
 sub startOfHeadingControl by startOfHeadingControl.ss20;
 sub startOfTextControl by startOfTextControl.ss20;
 sub substituteControl by substituteControl.ss20;
 sub synchronousIdleControl by synchronousIdleControl.ss20;
+sub unitSeparatorControl by whiteUpperRightQuadrantSquare;
 sub verticalTabulationControl by verticalTabulationControl.ss20;
-
+sub newlineControl by returnsymbol;
 } ss20;
+feature rclt {
+# this subs the GDI-centric versions of these symbols with DWrite-centric ones
+sub lowerOneEighthBlock by lowerOneEighthBlock.stypo;
+sub lowerOneQuarterBlock by lowerOneQuarterBlock.stypo;
+sub lowerThreeEighthsBlock by lowerThreeEighthsBlock.stypo;
+sub lowerHalfBlock by lowerHalfBlock.stypo;
+sub lowerFiveEighthsBlock by lowerFiveEighthsBlock.stypo;
+sub lowerThreeQuartersBlock by lowerThreeQuartersBlock.stypo;
+sub lowerSevenEighthsBlock by lowerSevenEighthsBlock.stypo;
+sub fullBlock by fullBlock.stypo;
+sub upperHalfBlock by upperHalfBlock.stypo;
+sub upperOneEighthBlock by upperOneEighthBlock.stypo;
+sub leftOneEighthBlock by leftOneEighthBlock.stypo;
+sub leftOneQuarterBlock by leftOneQuarterBlock.stypo;
+sub leftThreeEighthsBlock by leftThreeEighthsBlock.stypo;
+sub leftBlock by leftBlock.stypo;
+sub leftFiveEighthsBlock by leftFiveEighthsBlock.stypo;
+sub leftThreeQuartersBlock by leftThreeQuartersBlock.stypo;
+sub leftSevenEighthsBlock by leftSevenEighthsBlock.stypo;
+sub rightBlock by rightBlock.stypo;
+sub rightOneEighthBlock by rightOneEighthBlock.stypo;
+sub lowerLeftBlock by lowerLeftBlock.stypo;
+sub lowerRightBlock by lowerRightBlock.stypo;
+sub upperLeftBlock by upperLeftBlock.stypo;
+sub upperLeftAndLowerLeftAndLowerRightBlock by upperLeftAndLowerLeftAndLowerRightBlock.stypo;
+sub upperLeftAndLowerRightBlock by upperLeftAndLowerRightBlock.stypo;
+sub upperLeftAndUpperRightAndLowerLeftBlock by upperLeftAndUpperRightAndLowerLeftBlock.stypo;
+sub upperLeftAndUpperRightAndLowerRightBlock by upperLeftAndUpperRightAndLowerRightBlock.stypo;
+sub upperRightBlock by upperRightBlock.stypo;
+sub upperRightAndLowerLeftBlock by upperRightAndLowerLeftBlock.stypo;
+sub upperRightAndLowerLeftAndLowerRightBlock by upperRightAndLowerLeftAndLowerRightBlock.stypo;
+sub shadelight by shadelight.stypo;
+sub shademedium by shademedium.stypo;
+sub shadedark by shadedark.stypo;
+sub boxDoubleDownAndHorizontal by boxDoubleDownAndHorizontal.stypo;
+sub boxDoubleDownAndLeft by boxDoubleDownAndLeft.stypo;
+sub boxDoubleDownAndRight by boxDoubleDownAndRight.stypo;
+sub boxDoubleHorizontal by boxDoubleHorizontal.stypo;
+sub boxDoubleUpAndHorizontal by boxDoubleUpAndHorizontal.stypo;
+sub boxDoubleUpAndLeft by boxDoubleUpAndLeft.stypo;
+sub boxDoubleUpAndRight by boxDoubleUpAndRight.stypo;
+sub boxDoubleVertical by boxDoubleVertical.stypo;
+sub boxDoubleVerticalAndHorizontal by boxDoubleVerticalAndHorizontal.stypo;
+sub boxDoubleVerticalAndLeft by boxDoubleVerticalAndLeft.stypo;
+sub boxDoubleVerticalAndRight by boxDoubleVerticalAndRight.stypo;
+sub boxDownDoubleAndHorizontalSingle by boxDownDoubleAndHorizontalSingle.stypo;
+sub boxDownDoubleAndLeftSingle by boxDownDoubleAndLeftSingle.stypo;
+sub boxDownDoubleAndRightSingle by boxDownDoubleAndRightSingle.stypo;
+sub boxDownHeavyAndHorizontalLight by boxDownHeavyAndHorizontalLight.stypo;
+sub boxDownHeavyAndLeftLight by boxDownHeavyAndLeftLight.stypo;
+sub boxDownHeavyAndLeftUpLight by boxDownHeavyAndLeftUpLight.stypo;
+sub boxDownHeavyAndRightLight by boxDownHeavyAndRightLight.stypo;
+sub boxDownHeavyAndRightUpLight by boxDownHeavyAndRightUpLight.stypo;
+sub boxDownHeavyAndUpHorizontalLight by boxDownHeavyAndUpHorizontalLight.stypo;
+sub boxDownLightAndHorizontalHeavy by boxDownLightAndHorizontalHeavy.stypo;
+sub boxDownLightAndLeftHeavy by boxDownLightAndLeftHeavy.stypo;
+sub boxDownLightAndLeftUpHeavy by boxDownLightAndLeftUpHeavy.stypo;
+sub boxDownLightAndRightHeavy by boxDownLightAndRightHeavy.stypo;
+sub boxDownLightAndRightUpHeavy by boxDownLightAndRightUpHeavy.stypo;
+sub boxDownLightAndUpHorizontalHeavy by boxDownLightAndUpHorizontalHeavy.stypo;
+sub boxDownSingleAndHorizontalDouble by boxDownSingleAndHorizontalDouble.stypo;
+sub boxDownSingleAndLeftDouble by boxDownSingleAndLeftDouble.stypo;
+sub boxDownSingleAndRightDouble by boxDownSingleAndRightDouble.stypo;
+sub boxHeavyDoubleDashHorizontal by boxHeavyDoubleDashHorizontal.stypo;
+sub boxHeavyDoubleDashVertical by boxHeavyDoubleDashVertical.stypo;
+sub boxHeavyDown by boxHeavyDown.stypo;
+sub boxHeavyDownAndHorizontal by boxHeavyDownAndHorizontal.stypo;
+sub boxHeavyDownAndLeft by boxHeavyDownAndLeft.stypo;
+sub boxHeavyDownAndRight by boxHeavyDownAndRight.stypo;
+sub boxHeavyHorizontal by boxHeavyHorizontal.stypo;
+sub boxHeavyLeft by boxHeavyLeft.stypo;
+sub boxHeavyLeftAndLightRight by boxHeavyLeftAndLightRight.stypo;
+sub boxHeavyQuadrupleDashHorizontal by boxHeavyQuadrupleDashHorizontal.stypo;
+sub boxHeavyQuadrupleDashVertical by boxHeavyQuadrupleDashVertical.stypo;
+sub boxHeavyRight by boxHeavyRight.stypo;
+sub boxHeavyTripleDashHorizontal by boxHeavyTripleDashHorizontal.stypo;
+sub boxHeavyTripleDashVertical by boxHeavyTripleDashVertical.stypo;
+sub boxHeavyUp by boxHeavyUp.stypo;
+sub boxHeavyUpAndHorizontal by boxHeavyUpAndHorizontal.stypo;
+sub boxHeavyUpAndLeft by boxHeavyUpAndLeft.stypo;
+sub boxHeavyUpAndLightDown by boxHeavyUpAndLightDown.stypo;
+sub boxHeavyUpAndRight by boxHeavyUpAndRight.stypo;
+sub boxHeavyVertical by boxHeavyVertical.stypo;
+sub boxHeavyVerticalAndHorizontal by boxHeavyVerticalAndHorizontal.stypo;
+sub boxHeavyVerticalAndLeft by boxHeavyVerticalAndLeft.stypo;
+sub boxHeavyVerticalAndRight by boxHeavyVerticalAndRight.stypo;
+sub boxLeftDownHeavyAndRightUpLight by boxLeftDownHeavyAndRightUpLight.stypo;
+sub boxLeftHeavyAndRightDownLight by boxLeftHeavyAndRightDownLight.stypo;
+sub boxLeftHeavyAndRightUpLight by boxLeftHeavyAndRightUpLight.stypo;
+sub boxLeftHeavyAndRightVerticalLight by boxLeftHeavyAndRightVerticalLight.stypo;
+sub boxLeftLightAndRightDownHeavy by boxLeftLightAndRightDownHeavy.stypo;
+sub boxLeftLightAndRightUpHeavy by boxLeftLightAndRightUpHeavy.stypo;
+sub boxLeftLightAndRightVerticalHeavy by boxLeftLightAndRightVerticalHeavy.stypo;
+sub boxLeftUpHeavyAndRightDownLight by boxLeftUpHeavyAndRightDownLight.stypo;
+sub boxLightArcDownAndLeft by boxLightArcDownAndLeft.stypo;
+sub boxLightArcDownAndRight by boxLightArcDownAndRight.stypo;
+sub boxLightArcUpAndLeft by boxLightArcUpAndLeft.stypo;
+sub boxLightArcUpAndRight by boxLightArcUpAndRight.stypo;
+sub boxLightDiagonalCross by boxLightDiagonalCross.stypo;
+sub boxLightDiagonalUpperLeftToLowerRight by boxLightDiagonalUpperLeftToLowerRight.stypo;
+sub boxLightDiagonalUpperRightToLowerLeft by boxLightDiagonalUpperRightToLowerLeft.stypo;
+sub boxLightDoubleDashHorizontal by boxLightDoubleDashHorizontal.stypo;
+sub boxLightDoubleDashVertical by boxLightDoubleDashVertical.stypo;
+sub boxLightDown by boxLightDown.stypo;
+sub boxLightDownAndHorizontal by boxLightDownAndHorizontal.stypo;
+sub boxLightDownAndLeft by boxLightDownAndLeft.stypo;
+sub boxLightDownAndRight by boxLightDownAndRight.stypo;
+sub boxLightHorizontal by boxLightHorizontal.stypo;
+sub boxLightLeft by boxLightLeft.stypo;
+sub boxLightLeftAndHeavyRight by boxLightLeftAndHeavyRight.stypo;
+sub boxLightQuadrupleDashHorizontal by boxLightQuadrupleDashHorizontal.stypo;
+sub boxLightQuadrupleDashVertical by boxLightQuadrupleDashVertical.stypo;
+sub boxLightRight by boxLightRight.stypo;
+sub boxLightTripleDashHorizontal by boxLightTripleDashHorizontal.stypo;
+sub boxLightTripleDashVertical by boxLightTripleDashVertical.stypo;
+sub boxLightUp by boxLightUp.stypo;
+sub boxLightUpAndHeavyDown by boxLightUpAndHeavyDown.stypo;
+sub boxLightUpAndHorizontal by boxLightUpAndHorizontal.stypo;
+sub boxLightUpAndLeft by boxLightUpAndLeft.stypo;
+sub boxLightUpAndRight by boxLightUpAndRight.stypo;
+sub boxLightVertical by boxLightVertical.stypo;
+sub boxLightVerticalAndHorizontal by boxLightVerticalAndHorizontal.stypo;
+sub boxLightVerticalAndLeft by boxLightVerticalAndLeft.stypo;
+sub boxLightVerticalAndRight by boxLightVerticalAndRight.stypo;
+sub boxRightDownHeavyAndLeftUpLight by boxRightDownHeavyAndLeftUpLight.stypo;
+sub boxRightHeavyAndLeftDownLight by boxRightHeavyAndLeftDownLight.stypo;
+sub boxRightHeavyAndLeftUpLight by boxRightHeavyAndLeftUpLight.stypo;
+sub boxRightHeavyAndLeftVerticalLight by boxRightHeavyAndLeftVerticalLight.stypo;
+sub boxRightLightAndLeftDownHeavy by boxRightLightAndLeftDownHeavy.stypo;
+sub boxRightLightAndLeftUpHeavy by boxRightLightAndLeftUpHeavy.stypo;
+sub boxRightLightAndLeftVerticalHeavy by boxRightLightAndLeftVerticalHeavy.stypo;
+sub boxRightUpHeavyAndLeftDownLight by boxRightUpHeavyAndLeftDownLight.stypo;
+sub boxUpDoubleAndHorizontalSingle by boxUpDoubleAndHorizontalSingle.stypo;
+sub boxUpDoubleAndLeftSingle by boxUpDoubleAndLeftSingle.stypo;
+sub boxUpDoubleAndRightSingle by boxUpDoubleAndRightSingle.stypo;
+sub boxUpHeavyAndDownHorizontalLight by boxUpHeavyAndDownHorizontalLight.stypo;
+sub boxUpHeavyAndHorizontalLight by boxUpHeavyAndHorizontalLight.stypo;
+sub boxUpHeavyAndLeftDownLight by boxUpHeavyAndLeftDownLight.stypo;
+sub boxUpHeavyAndLeftLight by boxUpHeavyAndLeftLight.stypo;
+sub boxUpHeavyAndRightDownLight by boxUpHeavyAndRightDownLight.stypo;
+sub boxUpHeavyAndRightLight by boxUpHeavyAndRightLight.stypo;
+sub boxUpLightAndDownHorizontalHeavy by boxUpLightAndDownHorizontalHeavy.stypo;
+sub boxUpLightAndHorizontalHeavy by boxUpLightAndHorizontalHeavy.stypo;
+sub boxUpLightAndLeftDownHeavy by boxUpLightAndLeftDownHeavy.stypo;
+sub boxUpLightAndLeftHeavy by boxUpLightAndLeftHeavy.stypo;
+sub boxUpLightAndRightDownHeavy by boxUpLightAndRightDownHeavy.stypo;
+sub boxUpLightAndRightHeavy by boxUpLightAndRightHeavy.stypo;
+sub boxUpSingleAndHorizontalDouble by boxUpSingleAndHorizontalDouble.stypo;
+sub boxUpSingleAndLeftDouble by boxUpSingleAndLeftDouble.stypo;
+sub boxUpSingleAndRightDouble by boxUpSingleAndRightDouble.stypo;
+sub boxVerticalDoubleAndHorizontalSingle by boxVerticalDoubleAndHorizontalSingle.stypo;
+sub boxVerticalDoubleAndLeftSingle by boxVerticalDoubleAndLeftSingle.stypo;
+sub boxVerticalDoubleAndRightSingle by boxVerticalDoubleAndRightSingle.stypo;
+sub boxVerticalHeavyAndHorizontalLight by boxVerticalHeavyAndHorizontalLight.stypo;
+sub boxVerticalHeavyAndLeftLight by boxVerticalHeavyAndLeftLight.stypo;
+sub boxVerticalHeavyAndRightLight by boxVerticalHeavyAndRightLight.stypo;
+sub boxVerticalLightAndHorizontalHeavy by boxVerticalLightAndHorizontalHeavy.stypo;
+sub boxVerticalLightAndLeftHeavy by boxVerticalLightAndLeftHeavy.stypo;
+sub boxVerticalLightAndRightHeavy by boxVerticalLightAndRightHeavy.stypo;
+sub boxVerticalSingleAndHorizontalDouble by boxVerticalSingleAndHorizontalDouble.stypo;
+sub boxVerticalSingleAndLeftDouble by boxVerticalSingleAndLeftDouble.stypo;
+sub boxVerticalSingleAndRightDouble by boxVerticalSingleAndRightDouble.stypo;
+sub checkerBoardDeleteAmstradCpc by checkerBoardDeleteAmstradCpc.stypo;
+sub checkerBoardFill by checkerBoardFill.stypo;
+sub checkerBoardFillInverse by checkerBoardFillInverse.stypo;
+sub blockQuadrant-UC by blockQuadrant-UC.stypo;
+sub blockQuadrant-LC by blockQuadrant-LC.stypo;
+sub blockQuadrant-ML by blockQuadrant-ML.stypo;
+sub blockQuadrant-MR by blockQuadrant-MR.stypo;
+sub blockTriangle-1 by blockTriangle-1.stypo;
+sub blockTriangle-2 by blockTriangle-2.stypo;
+sub blockTriangle-3 by blockTriangle-3.stypo;
+sub blockTriangle-4 by blockTriangle-4.stypo;
+sub blockTriangle-14 by blockTriangle-14.stypo;
+sub blockTriangle-23 by blockTriangle-23.stypo;
+sub blockTriangle-123 by blockTriangle-123.stypo;
+sub blockTriangle-124 by blockTriangle-124.stypo;
+sub blockTriangle-134 by blockTriangle-134.stypo;
+sub blockTriangle-234 by blockTriangle-234.stypo;
+sub blockCircle-1 by blockCircle-1.stypo;
+sub blockCircle-2 by blockCircle-2.stypo;
+sub blockCircle-3 by blockCircle-3.stypo;
+sub blockCircle-4 by blockCircle-4.stypo;
+sub blockCircle-UC by blockCircle-UC.stypo;
+sub blockCircle-LC by blockCircle-LC.stypo;
+sub blockCircle-ML by blockCircle-ML.stypo;
+sub blockCircle-MR by blockCircle-MR.stypo;
+sub blockSextant-1 by blockSextant-1.stypo;
+sub blockSextant-2 by blockSextant-2.stypo;
+sub blockSextant-12 by blockSextant-12.stypo;
+sub blockSextant-3 by blockSextant-3.stypo;
+sub blockSextant-13 by blockSextant-13.stypo;
+sub blockSextant-23 by blockSextant-23.stypo;
+sub blockSextant-123 by blockSextant-123.stypo;
+sub blockSextant-4 by blockSextant-4.stypo;
+sub blockSextant-14 by blockSextant-14.stypo;
+sub blockSextant-24 by blockSextant-24.stypo;
+sub blockSextant-124 by blockSextant-124.stypo;
+sub blockSextant-34 by blockSextant-34.stypo;
+sub blockSextant-134 by blockSextant-134.stypo;
+sub blockSextant-234 by blockSextant-234.stypo;
+sub blockSextant-1234 by blockSextant-1234.stypo;
+sub blockSextant-5 by blockSextant-5.stypo;
+sub blockSextant-15 by blockSextant-15.stypo;
+sub blockSextant-25 by blockSextant-25.stypo;
+sub blockSextant-125 by blockSextant-125.stypo;
+sub blockSextant-35 by blockSextant-35.stypo;
+sub blockSextant-235 by blockSextant-235.stypo;
+sub blockSextant-1235 by blockSextant-1235.stypo;
+sub blockSextant-45 by blockSextant-45.stypo;
+sub blockSextant-145 by blockSextant-145.stypo;
+sub blockSextant-245 by blockSextant-245.stypo;
+sub blockSextant-1245 by blockSextant-1245.stypo;
+sub blockSextant-345 by blockSextant-345.stypo;
+sub blockSextant-1345 by blockSextant-1345.stypo;
+sub blockSextant-2345 by blockSextant-2345.stypo;
+sub blockSextant-12345 by blockSextant-12345.stypo;
+sub blockSextant-6 by blockSextant-6.stypo;
+sub blockSextant-16 by blockSextant-16.stypo;
+sub blockSextant-26 by blockSextant-26.stypo;
+sub blockSextant-126 by blockSextant-126.stypo;
+sub blockSextant-36 by blockSextant-36.stypo;
+sub blockSextant-136 by blockSextant-136.stypo;
+sub blockSextant-236 by blockSextant-236.stypo;
+sub blockSextant-1236 by blockSextant-1236.stypo;
+sub blockSextant-46 by blockSextant-46.stypo;
+sub blockSextant-146 by blockSextant-146.stypo;
+sub blockSextant-1246 by blockSextant-1246.stypo;
+sub blockSextant-346 by blockSextant-346.stypo;
+sub blockSextant-1346 by blockSextant-1346.stypo;
+sub blockSextant-2346 by blockSextant-2346.stypo;
+sub blockSextant-12346 by blockSextant-12346.stypo;
+sub blockSextant-56 by blockSextant-56.stypo;
+sub blockSextant-156 by blockSextant-156.stypo;
+sub blockSextant-256 by blockSextant-256.stypo;
+sub blockSextant-1256 by blockSextant-1256.stypo;
+sub blockSextant-356 by blockSextant-356.stypo;
+sub blockSextant-1356 by blockSextant-1356.stypo;
+sub blockSextant-2356 by blockSextant-2356.stypo;
+sub blockSextant-12356 by blockSextant-12356.stypo;
+sub blockSextant-456 by blockSextant-456.stypo;
+sub blockSextant-1456 by blockSextant-1456.stypo;
+sub blockSextant-2456 by blockSextant-2456.stypo;
+sub blockSextant-12456 by blockSextant-12456.stypo;
+sub blockSextant-3456 by blockSextant-3456.stypo;
+sub blockSextant-13456 by blockSextant-13456.stypo;
+sub blockSextant-23456 by blockSextant-23456.stypo;
+sub blockDiagonal-1FB3C by blockDiagonal-1FB3C.stypo;
+sub blockDiagonal-1FB3D by blockDiagonal-1FB3D.stypo;
+sub blockDiagonal-1FB3E by blockDiagonal-1FB3E.stypo;
+sub blockDiagonal-1FB3F by blockDiagonal-1FB3F.stypo;
+sub blockDiagonal-1FB40 by blockDiagonal-1FB40.stypo;
+sub blockDiagonal-1FB41 by blockDiagonal-1FB41.stypo;
+sub blockDiagonal-1FB42 by blockDiagonal-1FB42.stypo;
+sub blockDiagonal-1FB43 by blockDiagonal-1FB43.stypo;
+sub blockDiagonal-1FB44 by blockDiagonal-1FB44.stypo;
+sub blockDiagonal-1FB45 by blockDiagonal-1FB45.stypo;
+sub blockDiagonal-1FB46 by blockDiagonal-1FB46.stypo;
+sub blockDiagonal-1FB47 by blockDiagonal-1FB47.stypo;
+sub blockDiagonal-1FB48 by blockDiagonal-1FB48.stypo;
+sub blockDiagonal-1FB49 by blockDiagonal-1FB49.stypo;
+sub blockDiagonal-1FB4A by blockDiagonal-1FB4A.stypo;
+sub blockDiagonal-1FB4B by blockDiagonal-1FB4B.stypo;
+sub blockDiagonal-1FB4C by blockDiagonal-1FB4C.stypo;
+sub blockDiagonal-1FB4D by blockDiagonal-1FB4D.stypo;
+sub blockDiagonal-1FB4E by blockDiagonal-1FB4E.stypo;
+sub blockDiagonal-1FB4F by blockDiagonal-1FB4F.stypo;
+sub blockDiagonal-1FB50 by blockDiagonal-1FB50.stypo;
+sub blockDiagonal-1FB51 by blockDiagonal-1FB51.stypo;
+sub blockDiagonal-1FB52 by blockDiagonal-1FB52.stypo;
+sub blockDiagonal-1FB53 by blockDiagonal-1FB53.stypo;
+sub blockDiagonal-1FB54 by blockDiagonal-1FB54.stypo;
+sub blockDiagonal-1FB55 by blockDiagonal-1FB55.stypo;
+sub blockDiagonal-1FB56 by blockDiagonal-1FB56.stypo;
+sub blockDiagonal-1FB57 by blockDiagonal-1FB57.stypo;
+sub blockDiagonal-1FB58 by blockDiagonal-1FB58.stypo;
+sub blockDiagonal-1FB59 by blockDiagonal-1FB59.stypo;
+sub blockDiagonal-1FB5A by blockDiagonal-1FB5A.stypo;
+sub blockDiagonal-1FB5B by blockDiagonal-1FB5B.stypo;
+sub blockDiagonal-1FB5C by blockDiagonal-1FB5C.stypo;
+sub blockDiagonal-1FB5D by blockDiagonal-1FB5D.stypo;
+sub blockDiagonal-1FB5E by blockDiagonal-1FB5E.stypo;
+sub blockDiagonal-1FB5F by blockDiagonal-1FB5F.stypo;
+sub blockDiagonal-1FB60 by blockDiagonal-1FB60.stypo;
+sub blockDiagonal-1FB61 by blockDiagonal-1FB61.stypo;
+sub blockDiagonal-1FB62 by blockDiagonal-1FB62.stypo;
+sub blockDiagonal-1FB63 by blockDiagonal-1FB63.stypo;
+sub blockDiagonal-1FB64 by blockDiagonal-1FB64.stypo;
+sub blockDiagonal-1FB65 by blockDiagonal-1FB65.stypo;
+sub blockDiagonal-1FB66 by blockDiagonal-1FB66.stypo;
+sub blockDiagonal-1FB67 by blockDiagonal-1FB67.stypo;
+sub blockOctant-1 by blockOctant-1.stypo;
+sub blockOctant-2 by blockOctant-2.stypo;
+sub blockOctant-12 by blockOctant-12.stypo;
+sub blockOctant-3 by blockOctant-3.stypo;
+sub blockOctant-23 by blockOctant-23.stypo;
+sub blockOctant-123 by blockOctant-123.stypo;
+sub blockOctant-4 by blockOctant-4.stypo;
+sub blockOctant-14 by blockOctant-14.stypo;
+sub blockOctant-124 by blockOctant-124.stypo;
+sub blockOctant-34 by blockOctant-34.stypo;
+sub blockOctant-134 by blockOctant-134.stypo;
+sub blockOctant-234 by blockOctant-234.stypo;
+sub blockOctant-5 by blockOctant-5.stypo;
+sub blockOctant-15 by blockOctant-15.stypo;
+sub blockOctant-25 by blockOctant-25.stypo;
+sub blockOctant-125 by blockOctant-125.stypo;
+sub blockOctant-135 by blockOctant-135.stypo;
+sub blockOctant-235 by blockOctant-235.stypo;
+sub blockOctant-1235 by blockOctant-1235.stypo;
+sub blockOctant-45 by blockOctant-45.stypo;
+sub blockOctant-145 by blockOctant-145.stypo;
+sub blockOctant-245 by blockOctant-245.stypo;
+sub blockOctant-1245 by blockOctant-1245.stypo;
+sub blockOctant-345 by blockOctant-345.stypo;
+sub blockOctant-1345 by blockOctant-1345.stypo;
+sub blockOctant-2345 by blockOctant-2345.stypo;
+sub blockOctant-12345 by blockOctant-12345.stypo;
+sub blockOctant-6 by blockOctant-6.stypo;
+sub blockOctant-16 by blockOctant-16.stypo;
+sub blockOctant-26 by blockOctant-26.stypo;
+sub blockOctant-126 by blockOctant-126.stypo;
+sub blockOctant-36 by blockOctant-36.stypo;
+sub blockOctant-136 by blockOctant-136.stypo;
+sub blockOctant-236 by blockOctant-236.stypo;
+sub blockOctant-1236 by blockOctant-1236.stypo;
+sub blockOctant-146 by blockOctant-146.stypo;
+sub blockOctant-246 by blockOctant-246.stypo;
+sub blockOctant-1246 by blockOctant-1246.stypo;
+sub blockOctant-346 by blockOctant-346.stypo;
+sub blockOctant-1346 by blockOctant-1346.stypo;
+sub blockOctant-2346 by blockOctant-2346.stypo;
+sub blockOctant-12346 by blockOctant-12346.stypo;
+sub blockOctant-56 by blockOctant-56.stypo;
+sub blockOctant-156 by blockOctant-156.stypo;
+sub blockOctant-256 by blockOctant-256.stypo;
+sub blockOctant-1256 by blockOctant-1256.stypo;
+sub blockOctant-356 by blockOctant-356.stypo;
+sub blockOctant-1356 by blockOctant-1356.stypo;
+sub blockOctant-2356 by blockOctant-2356.stypo;
+sub blockOctant-12356 by blockOctant-12356.stypo;
+sub blockOctant-456 by blockOctant-456.stypo;
+sub blockOctant-1456 by blockOctant-1456.stypo;
+sub blockOctant-2456 by blockOctant-2456.stypo;
+sub blockOctant-12456 by blockOctant-12456.stypo;
+sub blockOctant-3456 by blockOctant-3456.stypo;
+sub blockOctant-13456 by blockOctant-13456.stypo;
+sub blockOctant-23456 by blockOctant-23456.stypo;
+sub blockOctant-123456 by blockOctant-123456.stypo;
+sub blockOctant-7 by blockOctant-7.stypo;
+sub blockOctant-17 by blockOctant-17.stypo;
+sub blockOctant-27 by blockOctant-27.stypo;
+sub blockOctant-127 by blockOctant-127.stypo;
+sub blockOctant-37 by blockOctant-37.stypo;
+sub blockOctant-137 by blockOctant-137.stypo;
+sub blockOctant-237 by blockOctant-237.stypo;
+sub blockOctant-1237 by blockOctant-1237.stypo;
+sub blockOctant-47 by blockOctant-47.stypo;
+sub blockOctant-147 by blockOctant-147.stypo;
+sub blockOctant-247 by blockOctant-247.stypo;
+sub blockOctant-1247 by blockOctant-1247.stypo;
+sub blockOctant-347 by blockOctant-347.stypo;
+sub blockOctant-1347 by blockOctant-1347.stypo;
+sub blockOctant-2347 by blockOctant-2347.stypo;
+sub blockOctant-12347 by blockOctant-12347.stypo;
+sub blockOctant-157 by blockOctant-157.stypo;
+sub blockOctant-257 by blockOctant-257.stypo;
+sub blockOctant-1257 by blockOctant-1257.stypo;
+sub blockOctant-357 by blockOctant-357.stypo;
+sub blockOctant-2357 by blockOctant-2357.stypo;
+sub blockOctant-12357 by blockOctant-12357.stypo;
+sub blockOctant-457 by blockOctant-457.stypo;
+sub blockOctant-1457 by blockOctant-1457.stypo;
+sub blockOctant-12457 by blockOctant-12457.stypo;
+sub blockOctant-3457 by blockOctant-3457.stypo;
+sub blockOctant-13457 by blockOctant-13457.stypo;
+sub blockOctant-23457 by blockOctant-23457.stypo;
+sub blockOctant-67 by blockOctant-67.stypo;
+sub blockOctant-167 by blockOctant-167.stypo;
+sub blockOctant-267 by blockOctant-267.stypo;
+sub blockOctant-1267 by blockOctant-1267.stypo;
+sub blockOctant-367 by blockOctant-367.stypo;
+sub blockOctant-1367 by blockOctant-1367.stypo;
+sub blockOctant-2367 by blockOctant-2367.stypo;
+sub blockOctant-12367 by blockOctant-12367.stypo;
+sub blockOctant-467 by blockOctant-467.stypo;
+sub blockOctant-1467 by blockOctant-1467.stypo;
+sub blockOctant-2467 by blockOctant-2467.stypo;
+sub blockOctant-12467 by blockOctant-12467.stypo;
+sub blockOctant-3467 by blockOctant-3467.stypo;
+sub blockOctant-13467 by blockOctant-13467.stypo;
+sub blockOctant-23467 by blockOctant-23467.stypo;
+sub blockOctant-123467 by blockOctant-123467.stypo;
+sub blockOctant-567 by blockOctant-567.stypo;
+sub blockOctant-1567 by blockOctant-1567.stypo;
+sub blockOctant-2567 by blockOctant-2567.stypo;
+sub blockOctant-12567 by blockOctant-12567.stypo;
+sub blockOctant-3567 by blockOctant-3567.stypo;
+sub blockOctant-13567 by blockOctant-13567.stypo;
+sub blockOctant-23567 by blockOctant-23567.stypo;
+sub blockOctant-123567 by blockOctant-123567.stypo;
+sub blockOctant-4567 by blockOctant-4567.stypo;
+sub blockOctant-14567 by blockOctant-14567.stypo;
+sub blockOctant-24567 by blockOctant-24567.stypo;
+sub blockOctant-124567 by blockOctant-124567.stypo;
+sub blockOctant-34567 by blockOctant-34567.stypo;
+sub blockOctant-134567 by blockOctant-134567.stypo;
+sub blockOctant-234567 by blockOctant-234567.stypo;
+sub blockOctant-1234567 by blockOctant-1234567.stypo;
+sub blockOctant-8 by blockOctant-8.stypo;
+sub blockOctant-18 by blockOctant-18.stypo;
+sub blockOctant-28 by blockOctant-28.stypo;
+sub blockOctant-128 by blockOctant-128.stypo;
+sub blockOctant-38 by blockOctant-38.stypo;
+sub blockOctant-138 by blockOctant-138.stypo;
+sub blockOctant-238 by blockOctant-238.stypo;
+sub blockOctant-1238 by blockOctant-1238.stypo;
+sub blockOctant-48 by blockOctant-48.stypo;
+sub blockOctant-148 by blockOctant-148.stypo;
+sub blockOctant-248 by blockOctant-248.stypo;
+sub blockOctant-1248 by blockOctant-1248.stypo;
+sub blockOctant-348 by blockOctant-348.stypo;
+sub blockOctant-1348 by blockOctant-1348.stypo;
+sub blockOctant-2348 by blockOctant-2348.stypo;
+sub blockOctant-12348 by blockOctant-12348.stypo;
+sub blockOctant-58 by blockOctant-58.stypo;
+sub blockOctant-158 by blockOctant-158.stypo;
+sub blockOctant-258 by blockOctant-258.stypo;
+sub blockOctant-1258 by blockOctant-1258.stypo;
+sub blockOctant-358 by blockOctant-358.stypo;
+sub blockOctant-1358 by blockOctant-1358.stypo;
+sub blockOctant-2358 by blockOctant-2358.stypo;
+sub blockOctant-12358 by blockOctant-12358.stypo;
+sub blockOctant-458 by blockOctant-458.stypo;
+sub blockOctant-1458 by blockOctant-1458.stypo;
+sub blockOctant-2458 by blockOctant-2458.stypo;
+sub blockOctant-12458 by blockOctant-12458.stypo;
+sub blockOctant-3458 by blockOctant-3458.stypo;
+sub blockOctant-13458 by blockOctant-13458.stypo;
+sub blockOctant-23458 by blockOctant-23458.stypo;
+sub blockOctant-123458 by blockOctant-123458.stypo;
+sub blockOctant-168 by blockOctant-168.stypo;
+sub blockOctant-268 by blockOctant-268.stypo;
+sub blockOctant-1268 by blockOctant-1268.stypo;
+sub blockOctant-368 by blockOctant-368.stypo;
+sub blockOctant-2368 by blockOctant-2368.stypo;
+sub blockOctant-12368 by blockOctant-12368.stypo;
+sub blockOctant-468 by blockOctant-468.stypo;
+sub blockOctant-1468 by blockOctant-1468.stypo;
+sub blockOctant-12468 by blockOctant-12468.stypo;
+sub blockOctant-3468 by blockOctant-3468.stypo;
+sub blockOctant-13468 by blockOctant-13468.stypo;
+sub blockOctant-23468 by blockOctant-23468.stypo;
+sub blockOctant-568 by blockOctant-568.stypo;
+sub blockOctant-1568 by blockOctant-1568.stypo;
+sub blockOctant-2568 by blockOctant-2568.stypo;
+sub blockOctant-12568 by blockOctant-12568.stypo;
+sub blockOctant-3568 by blockOctant-3568.stypo;
+sub blockOctant-13568 by blockOctant-13568.stypo;
+sub blockOctant-23568 by blockOctant-23568.stypo;
+sub blockOctant-123568 by blockOctant-123568.stypo;
+sub blockOctant-4568 by blockOctant-4568.stypo;
+sub blockOctant-14568 by blockOctant-14568.stypo;
+sub blockOctant-24568 by blockOctant-24568.stypo;
+sub blockOctant-124568 by blockOctant-124568.stypo;
+sub blockOctant-34568 by blockOctant-34568.stypo;
+sub blockOctant-134568 by blockOctant-134568.stypo;
+sub blockOctant-234568 by blockOctant-234568.stypo;
+sub blockOctant-1234568 by blockOctant-1234568.stypo;
+sub blockOctant-178 by blockOctant-178.stypo;
+sub blockOctant-278 by blockOctant-278.stypo;
+sub blockOctant-1278 by blockOctant-1278.stypo;
+sub blockOctant-378 by blockOctant-378.stypo;
+sub blockOctant-1378 by blockOctant-1378.stypo;
+sub blockOctant-2378 by blockOctant-2378.stypo;
+sub blockOctant-12378 by blockOctant-12378.stypo;
+sub blockOctant-478 by blockOctant-478.stypo;
+sub blockOctant-1478 by blockOctant-1478.stypo;
+sub blockOctant-2478 by blockOctant-2478.stypo;
+sub blockOctant-12478 by blockOctant-12478.stypo;
+sub blockOctant-3478 by blockOctant-3478.stypo;
+sub blockOctant-13478 by blockOctant-13478.stypo;
+sub blockOctant-23478 by blockOctant-23478.stypo;
+sub blockOctant-123478 by blockOctant-123478.stypo;
+sub blockOctant-578 by blockOctant-578.stypo;
+sub blockOctant-1578 by blockOctant-1578.stypo;
+sub blockOctant-2578 by blockOctant-2578.stypo;
+sub blockOctant-12578 by blockOctant-12578.stypo;
+sub blockOctant-3578 by blockOctant-3578.stypo;
+sub blockOctant-13578 by blockOctant-13578.stypo;
+sub blockOctant-23578 by blockOctant-23578.stypo;
+sub blockOctant-123578 by blockOctant-123578.stypo;
+sub blockOctant-4578 by blockOctant-4578.stypo;
+sub blockOctant-14578 by blockOctant-14578.stypo;
+sub blockOctant-24578 by blockOctant-24578.stypo;
+sub blockOctant-124578 by blockOctant-124578.stypo;
+sub blockOctant-34578 by blockOctant-34578.stypo;
+sub blockOctant-134578 by blockOctant-134578.stypo;
+sub blockOctant-234578 by blockOctant-234578.stypo;
+sub blockOctant-1234578 by blockOctant-1234578.stypo;
+sub blockOctant-678 by blockOctant-678.stypo;
+sub blockOctant-1678 by blockOctant-1678.stypo;
+sub blockOctant-2678 by blockOctant-2678.stypo;
+sub blockOctant-12678 by blockOctant-12678.stypo;
+sub blockOctant-3678 by blockOctant-3678.stypo;
+sub blockOctant-13678 by blockOctant-13678.stypo;
+sub blockOctant-23678 by blockOctant-23678.stypo;
+sub blockOctant-123678 by blockOctant-123678.stypo;
+sub blockOctant-4678 by blockOctant-4678.stypo;
+sub blockOctant-14678 by blockOctant-14678.stypo;
+sub blockOctant-24678 by blockOctant-24678.stypo;
+sub blockOctant-124678 by blockOctant-124678.stypo;
+sub blockOctant-34678 by blockOctant-34678.stypo;
+sub blockOctant-134678 by blockOctant-134678.stypo;
+sub blockOctant-234678 by blockOctant-234678.stypo;
+sub blockOctant-1234678 by blockOctant-1234678.stypo;
+sub blockOctant-15678 by blockOctant-15678.stypo;
+sub blockOctant-25678 by blockOctant-25678.stypo;
+sub blockOctant-125678 by blockOctant-125678.stypo;
+sub blockOctant-35678 by blockOctant-35678.stypo;
+sub blockOctant-235678 by blockOctant-235678.stypo;
+sub blockOctant-1235678 by blockOctant-1235678.stypo;
+sub blockOctant-45678 by blockOctant-45678.stypo;
+sub blockOctant-145678 by blockOctant-145678.stypo;
+sub blockOctant-1245678 by blockOctant-1245678.stypo;
+sub blockOctant-1345678 by blockOctant-1345678.stypo;
+sub blockOctant-2345678 by blockOctant-2345678.stypo;
+sub blockSedecimant-1 by blockSedecimant-1.stypo;
+sub blockSedecimant-2 by blockSedecimant-2.stypo;
+sub blockSedecimant-3 by blockSedecimant-3.stypo;
+sub blockSedecimant-4 by blockSedecimant-4.stypo;
+sub blockSedecimant-5 by blockSedecimant-5.stypo;
+sub blockSedecimant-6 by blockSedecimant-6.stypo;
+sub blockSedecimant-7 by blockSedecimant-7.stypo;
+sub blockSedecimant-8 by blockSedecimant-8.stypo;
+sub blockSedecimant-9 by blockSedecimant-9.stypo;
+sub blockSedecimant-A by blockSedecimant-A.stypo;
+sub blockSedecimant-B by blockSedecimant-B.stypo;
+sub blockSedecimant-C by blockSedecimant-C.stypo;
+sub blockSedecimant-D by blockSedecimant-D.stypo;
+sub blockSedecimant-E by blockSedecimant-E.stypo;
+sub blockSedecimant-F by blockSedecimant-F.stypo;
+sub blockSedecimant-G by blockSedecimant-G.stypo;
+sub blockSedecimant-EFG by blockSedecimant-EFG.stypo;
+sub blockSedecimant-DEF by blockSedecimant-DEF.stypo;
+sub blockSedecimant-9D by blockSedecimant-9D.stypo;
+sub blockSedecimant-59D by blockSedecimant-59D.stypo;
+sub blockSedecimant-159 by blockSedecimant-159.stypo;
+sub blockSedecimant-15 by blockSedecimant-15.stypo;
+sub blockSedecimant-123 by blockSedecimant-123.stypo;
+sub blockSedecimant-234 by blockSedecimant-234.stypo;
+sub blockSedecimant-48 by blockSedecimant-48.stypo;
+sub blockSedecimant-48C by blockSedecimant-48C.stypo;
+sub blockSedecimant-8CG by blockSedecimant-8CG.stypo;
+sub blockSedecimant-CG by blockSedecimant-CG.stypo;
+sub verticalOneEighthBlock-2 by verticalOneEighthBlock-2.stypo;
+sub verticalOneEighthBlock-3 by verticalOneEighthBlock-3.stypo;
+sub verticalOneEighthBlock-4 by verticalOneEighthBlock-4.stypo;
+sub verticalOneEighthBlock-5 by verticalOneEighthBlock-5.stypo;
+sub verticalOneEighthBlock-6 by verticalOneEighthBlock-6.stypo;
+sub verticalOneEighthBlock-7 by verticalOneEighthBlock-7.stypo;
+sub horizontalOneEightBlock-2 by horizontalOneEightBlock-2.stypo;
+sub horizontalOneEightBlock-3 by horizontalOneEightBlock-3.stypo;
+sub horizontalOneEightBlock-4 by horizontalOneEightBlock-4.stypo;
+sub horizontalOneEightBlock-5 by horizontalOneEightBlock-5.stypo;
+sub horizontalOneEightBlock-6 by horizontalOneEightBlock-6.stypo;
+sub horizontalOneEightBlock-7 by horizontalOneEightBlock-7.stypo;
+sub leftAndLowerOneEightBlock by leftAndLowerOneEightBlock.stypo;
+sub leftAndUpperOneEightBlock by leftAndUpperOneEightBlock.stypo;
+sub rightAndUpperOneEightBlock by rightAndUpperOneEightBlock.stypo;
+sub rightAndLowerOneEightBlock by rightAndLowerOneEightBlock.stypo;
+sub upperAndLowerOneEightBlock by upperAndLowerOneEightBlock.stypo;
+sub upperThreeEighthsBlock by upperThreeEighthsBlock.stypo;
+sub upperFiveEighthsBlock by upperFiveEighthsBlock.stypo;
+sub upperSevenEighthsBlock by upperSevenEighthsBlock.stypo;
+sub rightOneQuarterBlock by rightOneQuarterBlock.stypo;
+sub rightThreeEighthsBlock by rightThreeEighthsBlock.stypo;
+sub rightFiveEighthsBlock by rightFiveEighthsBlock.stypo;
+sub rightThreeQuartersBlock by rightThreeQuartersBlock.stypo;
+sub rightSevenEighthsBlock by rightSevenEighthsBlock.stypo;
+sub leftTwoThirdsBlock by leftTwoThirdsBlock.stypo;
+sub leftOneThirdBlock by leftOneThirdBlock.stypo;
+sub heavyHorizontalFill by heavyHorizontalFill.stypo;
+sub blockSeparatedQuadrant-1 by blockSeparatedQuadrant-1.stypo;
+sub blockSeparatedQuadrant-2 by blockSeparatedQuadrant-2.stypo;
+sub blockSeparatedQuadrant-12 by blockSeparatedQuadrant-12.stypo;
+sub blockSeparatedQuadrant-3 by blockSeparatedQuadrant-3.stypo;
+sub blockSeparatedQuadrant-13 by blockSeparatedQuadrant-13.stypo;
+sub blockSeparatedQuadrant-23 by blockSeparatedQuadrant-23.stypo;
+sub blockSeparatedQuadrant-123 by blockSeparatedQuadrant-123.stypo;
+sub blockSeparatedQuadrant-4 by blockSeparatedQuadrant-4.stypo;
+sub blockSeparatedQuadrant-14 by blockSeparatedQuadrant-14.stypo;
+sub blockSeparatedQuadrant-24 by blockSeparatedQuadrant-24.stypo;
+sub blockSeparatedQuadrant-124 by blockSeparatedQuadrant-124.stypo;
+sub blockSeparatedQuadrant-34 by blockSeparatedQuadrant-34.stypo;
+sub blockSeparatedQuadrant-134 by blockSeparatedQuadrant-134.stypo;
+sub blockSeparatedQuadrant-234 by blockSeparatedQuadrant-234.stypo;
+sub blockSeparatedQuadrant-1234 by blockSeparatedQuadrant-1234.stypo;
+sub blockSeparatedSextant-1 by blockSeparatedSextant-1.stypo;
+sub blockSeparatedSextant-2 by blockSeparatedSextant-2.stypo;
+sub blockSeparatedSextant-12 by blockSeparatedSextant-12.stypo;
+sub blockSeparatedSextant-3 by blockSeparatedSextant-3.stypo;
+sub blockSeparatedSextant-13 by blockSeparatedSextant-13.stypo;
+sub blockSeparatedSextant-23 by blockSeparatedSextant-23.stypo;
+sub blockSeparatedSextant-123 by blockSeparatedSextant-123.stypo;
+sub blockSeparatedSextant-4 by blockSeparatedSextant-4.stypo;
+sub blockSeparatedSextant-14 by blockSeparatedSextant-14.stypo;
+sub blockSeparatedSextant-24 by blockSeparatedSextant-24.stypo;
+sub blockSeparatedSextant-124 by blockSeparatedSextant-124.stypo;
+sub blockSeparatedSextant-34 by blockSeparatedSextant-34.stypo;
+sub blockSeparatedSextant-134 by blockSeparatedSextant-134.stypo;
+sub blockSeparatedSextant-234 by blockSeparatedSextant-234.stypo;
+sub blockSeparatedSextant-1234 by blockSeparatedSextant-1234.stypo;
+sub blockSeparatedSextant-5 by blockSeparatedSextant-5.stypo;
+sub blockSeparatedSextant-15 by blockSeparatedSextant-15.stypo;
+sub blockSeparatedSextant-25 by blockSeparatedSextant-25.stypo;
+sub blockSeparatedSextant-125 by blockSeparatedSextant-125.stypo;
+sub blockSeparatedSextant-35 by blockSeparatedSextant-35.stypo;
+sub blockSeparatedSextant-135 by blockSeparatedSextant-135.stypo;
+sub blockSeparatedSextant-235 by blockSeparatedSextant-235.stypo;
+sub blockSeparatedSextant-1235 by blockSeparatedSextant-1235.stypo;
+sub blockSeparatedSextant-45 by blockSeparatedSextant-45.stypo;
+sub blockSeparatedSextant-145 by blockSeparatedSextant-145.stypo;
+sub blockSeparatedSextant-245 by blockSeparatedSextant-245.stypo;
+sub blockSeparatedSextant-1245 by blockSeparatedSextant-1245.stypo;
+sub blockSeparatedSextant-345 by blockSeparatedSextant-345.stypo;
+sub blockSeparatedSextant-1345 by blockSeparatedSextant-1345.stypo;
+sub blockSeparatedSextant-2345 by blockSeparatedSextant-2345.stypo;
+sub blockSeparatedSextant-12345 by blockSeparatedSextant-12345.stypo;
+sub blockSeparatedSextant-6 by blockSeparatedSextant-6.stypo;
+sub blockSeparatedSextant-16 by blockSeparatedSextant-16.stypo;
+sub blockSeparatedSextant-26 by blockSeparatedSextant-26.stypo;
+sub blockSeparatedSextant-126 by blockSeparatedSextant-126.stypo;
+sub blockSeparatedSextant-36 by blockSeparatedSextant-36.stypo;
+sub blockSeparatedSextant-136 by blockSeparatedSextant-136.stypo;
+sub blockSeparatedSextant-236 by blockSeparatedSextant-236.stypo;
+sub blockSeparatedSextant-1236 by blockSeparatedSextant-1236.stypo;
+sub blockSeparatedSextant-46 by blockSeparatedSextant-46.stypo;
+sub blockSeparatedSextant-146 by blockSeparatedSextant-146.stypo;
+sub blockSeparatedSextant-246 by blockSeparatedSextant-246.stypo;
+sub blockSeparatedSextant-1246 by blockSeparatedSextant-1246.stypo;
+sub blockSeparatedSextant-346 by blockSeparatedSextant-346.stypo;
+sub blockSeparatedSextant-1346 by blockSeparatedSextant-1346.stypo;
+sub blockSeparatedSextant-2346 by blockSeparatedSextant-2346.stypo;
+sub blockSeparatedSextant-12346 by blockSeparatedSextant-12346.stypo;
+sub blockSeparatedSextant-56 by blockSeparatedSextant-56.stypo;
+sub blockSeparatedSextant-156 by blockSeparatedSextant-156.stypo;
+sub blockSeparatedSextant-256 by blockSeparatedSextant-256.stypo;
+sub blockSeparatedSextant-1256 by blockSeparatedSextant-1256.stypo;
+sub blockSeparatedSextant-356 by blockSeparatedSextant-356.stypo;
+sub blockSeparatedSextant-1356 by blockSeparatedSextant-1356.stypo;
+sub blockSeparatedSextant-2356 by blockSeparatedSextant-2356.stypo;
+sub blockSeparatedSextant-12356 by blockSeparatedSextant-12356.stypo;
+sub blockSeparatedSextant-456 by blockSeparatedSextant-456.stypo;
+sub blockSeparatedSextant-1456 by blockSeparatedSextant-1456.stypo;
+sub blockSeparatedSextant-2456 by blockSeparatedSextant-2456.stypo;
+sub blockSeparatedSextant-12456 by blockSeparatedSextant-12456.stypo;
+sub blockSeparatedSextant-3456 by blockSeparatedSextant-3456.stypo;
+sub blockSeparatedSextant-13456 by blockSeparatedSextant-13456.stypo;
+sub blockSeparatedSextant-23456 by blockSeparatedSextant-23456.stypo;
+sub blockSeparatedSextant-123456 by blockSeparatedSextant-123456.stypo;
+sub largeType-1CE1A by largeType-1CE1A.stypo;
+sub largeType-1CE1B by largeType-1CE1B.stypo;
+sub largeType-1CE1C by largeType-1CE1C.stypo;
+sub largeType-1CE1D by largeType-1CE1D.stypo;
+sub largeType-1CE1E by largeType-1CE1E.stypo;
+sub largeType-1CE1F by largeType-1CE1F.stypo;
+sub largeType-1CE20 by largeType-1CE20.stypo;
+sub largeType-1CE21 by largeType-1CE21.stypo;
+sub largeType-1CE22 by largeType-1CE22.stypo;
+sub largeType-1CE23 by largeType-1CE23.stypo;
+sub largeType-1CE24 by largeType-1CE24.stypo;
+sub largeType-1CE25 by largeType-1CE25.stypo;
+sub largeType-1CE26 by largeType-1CE26.stypo;
+sub largeType-1CE27 by largeType-1CE27.stypo;
+sub largeType-1CE28 by largeType-1CE28.stypo;
+sub largeType-1CE29 by largeType-1CE29.stypo;
+sub largeType-1CE2A by largeType-1CE2A.stypo;
+sub largeType-1CE2B by largeType-1CE2B.stypo;
+sub largeType-1CE2C by largeType-1CE2C.stypo;
+sub largeType-1CE2D by largeType-1CE2D.stypo;
+sub largeType-1CE2E by largeType-1CE2E.stypo;
+sub largeType-1CE2F by largeType-1CE2F.stypo;
+sub largeType-1CE30 by largeType-1CE30.stypo;
+sub largeType-1CE31 by largeType-1CE31.stypo;
+sub largeType-1CE32 by largeType-1CE32.stypo;
+sub largeType-1CE33 by largeType-1CE33.stypo;
+sub largeType-1CE34 by largeType-1CE34.stypo;
+sub largeType-1CE35 by largeType-1CE35.stypo;
+sub largeType-1CE36 by largeType-1CE36.stypo;
+sub largeType-1CE37 by largeType-1CE37.stypo;
+sub largeType-1CE38 by largeType-1CE38.stypo;
+sub largeType-1CE39 by largeType-1CE39.stypo;
+sub largeType-1CE3A by largeType-1CE3A.stypo;
+sub largeType-1CE3B by largeType-1CE3B.stypo;
+sub largeType-1CE3C by largeType-1CE3C.stypo;
+sub largeType-1CE3D by largeType-1CE3D.stypo;
+sub largeType-1CE3E by largeType-1CE3E.stypo;
+sub largeType-1CE3F by largeType-1CE3F.stypo;
+sub largeType-1CE40 by largeType-1CE40.stypo;
+sub largeType-1CE41 by largeType-1CE41.stypo;
+sub largeType-1CE42 by largeType-1CE42.stypo;
+sub largeType-1CE43 by largeType-1CE43.stypo;
+sub largeType-1CE44 by largeType-1CE44.stypo;
+sub largeType-1CE45 by largeType-1CE45.stypo;
+sub largeType-1CE46 by largeType-1CE46.stypo;
+sub largeType-1CE47 by largeType-1CE47.stypo;
+sub largeType-1CE48 by largeType-1CE48.stypo;
+sub largeType-1CE49 by largeType-1CE49.stypo;
+sub largeType-1CE4A by largeType-1CE4A.stypo;
+sub largeType-1CE4B by largeType-1CE4B.stypo;
+sub largeType-1CE4C by largeType-1CE4C.stypo;
+sub largeType-1CE4D by largeType-1CE4D.stypo;
+sub largeType-1CE4E by largeType-1CE4E.stypo;
+sub largeType-1CE4F by largeType-1CE4F.stypo;
+sub largeType-1CE50 by largeType-1CE50.stypo;
+} rclt;
+feature zero {
+# automatic
+sub zero by zero.zero;
+
+} zero;
