@@ -153,6 +153,20 @@ def set_overlap_flag(varfont: fontTools.ttLib.TTFont) -> fontTools.ttLib.TTFont:
             # Set OVERLAP_SIMPLE bit for simple glyphs
             glyph.flags[0] |= 0x40
 
+def sync_ufo_features(
+    designspace: fontTools.designspaceLib.DesignSpaceDocument, name: str
+) -> None:
+    """Write the features assembled from sources/features/ into each master's
+    features.fea, so tools that read the UFOs directly (e.g. Fontra) see the
+    same feature code that the build uses."""
+    designspace.loadSourceFonts(ufoLib2.Font.open)
+    for source in designspace.sources:
+        step_set_feature_file(FEATURES_DIR, name, source.font)
+        path = Path(source.path) / "features.fea"
+        path.write_text(source.font.features.text, encoding="utf-8")
+        print(f"[{name}] Wrote {path}")
+
+
 def prepare_fonts(
     designspace: fontTools.designspaceLib.DesignSpaceDocument, name: str
 ) -> None:
@@ -364,6 +378,11 @@ if __name__ == "__main__":
         help="Do not compile VTT code but leave in the VTT sources.",
     )
     parser.add_argument("-W", "--web-fonts", action="store_true")
+    parser.add_argument(
+        "--sync-ufo-features",
+        action="store_true",
+        help="Write features.fea in the UFO masters from sources/features and exit.",
+    )
     args = parser.parse_args()
 
     # Load Designspace and filter out instances that are marked as non-exportable.
@@ -387,6 +406,11 @@ if __name__ == "__main__":
         if s.lib.get("com.schriftgestaltung.export", True)
     ]
 
+
+    if args.sync_ufo_features:
+        sync_ufo_features(designspace, "Cascadia Code")
+        sync_ufo_features(designspaceItalic, "Cascadia Code Italic")
+        raise SystemExit(0)
 
     #Stage 1: Make all the things.
     pool = multiprocessing.pool.Pool(processes=multiprocessing.cpu_count())
